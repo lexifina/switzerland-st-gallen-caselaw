@@ -1,0 +1,46 @@
+---
+decision_id: "sg_publikationen_RZ.2006.51"
+court: "SG Kantonsgericht"
+court_id: "sg_kantonsgericht"
+chamber: "Kantonsgericht"
+docket: "RZ.2006.51"
+decided: "2006-11-10"
+language: "de"
+legal_area: "Zivilkammern (inkl. Einzelrichter)"
+source_url: "https://publikationen.sg.ch/rechtsprechung-gerichte-detail/4260/"
+pdf_url: "https://publikationen.sg.ch/rechtsprechung-gerichte?tx_diamjudicalsg_judicalpublicationpdf%5Bcontroller%5D=DownloadPdf&tx_diamjudicalsg_judicalpublicationpdf%5Bpublication%5D=4260&type=1563347022&cHash=a03bbd3565f55336430a00a3c672c900"
+cites_decisions: ["BGE 119 V 89"]
+cites_law: ["switzerland/bund/acts/210/art-002.md", "switzerland/bund/acts/272/art-219.md"]
+---
+
+# Entscheid Kantonsgericht, 10.11.2006
+
+## Regeste
+
+Art. 219 ZPO (sGS 961.2); Art. 77 Abs. 1 und 2 GerG (sGS 941.1). Trifft der Postbote beim Zustellungsversuch weder den Empfänger noch eine empfangsberechtigte Person an, so ist die Sendung in dem Zeitpunkt zugestellt, in dem sie am Postschalter abgeholt wird. Geschieht dies nicht innerhalb der Aufbewahrungsfrist, so gilt die Sendung am siebten auf den fruchtlosen Zustellungsversuch folgenden Tag zugestellt. Der Empfänger kann diese natürliche Tatsachenvermutung durch den Beweis des Gegenteils umstossen. Er darf jedoch nicht bloss behaupten, keine Abholungseinladung erhalten zu haben, sondern muss auch im Hinblick auf den Grundsatz von Treu und Glauben (Art. 2 ZGB) zumindest irgendwelche Anhaltspunkte geltend machen, weshalb die Zustellung nicht erfolgt sein soll (Kantonsgericht, Einzelrichter für Rekurse im Obligationenrecht, 10. November 2006, RZ.2006.51).
+
+## Text
+
+Erwägungen
+I.
+1. Am 4. Oktober 2006 entschied der Kreisgerichtspräsident in der Streitsache der Parteien, was folgt:
+1. Es wird dem Gesuchsgegner verboten, in der von ihm gemieteten Wohnung übermässig Wasser zu gebrauchen bzw. ununterbrochen Wasser laufen zu lassen.
+2. Weiter wird dem Gesuchsgegner verboten, die Fenster im Treppenhaus der Liegenschaft zu öffnen.
+3. Bei Zuwiderhandlungen gegen die Befehle gemäss Ziff. 1 und 2 hiervor wird dem Gesuchsgegner ausdrücklich Busse angedroht.
+4. Die Kosten des Verfahrens von Fr. 300.- werden unter Verrechnung mit dem Kostenvorschuss von Fr. 300.- beim Gesuchsteller erhoben und ihm für den ganzen Betrag das Rückgriffsrecht auf den Gesuchsgegner eingeräumt.
+5. Der Gesuchsgegner hat den Gesuchsteller für Parteikosten mit Fr. 150.- zu entschädigen.
+2. Mit Eingabe vom 25. Oktober 2006 und mit Ergänzungen vom 30. Oktober 2006 (persönlich überbracht) legte der Beklagte (oben im Dispo: "Gesuchsgegner") gegen den Entscheid vom 4. Oktober 2006 Rekurs beim Einzelrichter des Kantonsgerichtes St.Gallen ein. Am 27. Oktober 2006 wurde ihm mitgeteilt, dass er die Rekursfrist verpasst habe, worauf er mit Eingabe vom 30. Oktober (persönlich überbracht) ein Wiederherstellungsgesuch stellte (Art. 85 GerG) mit der Begründung, dass er keine Abholungseinladung erhalten und erst am 24. Oktober 2006 vom Entscheid Kenntnis genommen habe.
+Eine Rekursantwort und Stellungnahme zum Wiederherstellungsgesuch wurde nicht eingeholt.
+II.
+1. Der Rekurs an den Einzelrichter des Kantonsgerichtes ist innert zehn Tagen nach Zustellung des angefochtenen Entscheides schriftlich einzureichen (Art. 219 ZPO). Die Rekursfrist von zehn Tagen ist eine gesetzliche Frist und als solche nicht erstreckbar (Art. 77 Abs. 1 GerG). Gesetzliche Fristen haben für den Fall der Nichtbeachtung Verwirkungsfolge (Art. 77 Abs. 2 GerG).
+a) Nach der Rechtsprechung ist ein eingeschriebener Brief in dem Zeitpunkt zugestellt, in welchem ihn der Empfänger tatsächlich in Empfang nimmt. Trifft der Postbote beim Zustellungsversuch weder den Empfänger noch eine empfangsberechtigte Person an, so ist die Sendung in dem Zeitpunkt zugestellt, in dem sie am Postschalter abgeholt wird. Geschieht dies nicht innerhalb der Aufbewahrungsfrist, so gilt die Sendung am siebten auf den fruchtlosen Zustellungsversuch folgenden Tag zugestellt (Art. 2.3.7 lit. a und b der Allgemeinen Geschäftsbedingungen der Schweizerischen Post "Postdienstleistungen"; LEUENBERGER/UFFER-TOBLER, Kommentar zur ZPO des Kantons St. Gallen, Bern 1999, N 3 zu Art. 217 ZPO/SG; BGE H 2/01 Hm vom 28. Dezember 2001 Erw. 5.a, 127 I 31, 123 III 493, 119 II 149 Erw. 2, 119 V 94 Erw. 4b/aa).
+Die Rechtsprechung knüpft die Zustellungsfiktion an zwei Bedingungen: In formeller Hinsicht ist erforderlich, dass eine Abholungseinladung mit Fristangabe im Briefkasten oder im Postfach des Empfängers hinterlassen wurde (BGE 115 Ia 12 Erw. 3a). Dafür spricht nach der Rechtsprechung so lange eine tatsächliche Vermutung, als der Empfänger nicht Umstände dartun kann, welche Zweifel an der Pflichterfüllung der Post zu wecken vermögen (AGVE 1983 355 ff.). Der Empfänger kann diese natürliche Tatsachenvermutung (AGVE 1992 51 Erw. 4b) durch den Beweis des Gegenteils umstossen. Er darf jedoch nicht bloss behaupten, keine Abholungseinladung erhalten zu haben, sondern muss auch im Hinblick auf den Grundsatz von Treu und Glauben (Art. 2 ZGB) zumindest irgendwelche Anhaltspunkte geltend machen, weshalb diese Zustellung nicht erfolgt sein soll. Es ist nämlich davon auszugehen, dass die Wahrscheinlichkeit, eine Abholungseinladung gehe auf dem sehr kurzen Weg von der Hand des zustellenden Postboten in den Briefkasten verloren, äusserst gering ist. Auch darf bis zum Nachweis des Gegenteils bzw. von konkreten Umständen grundsätzlich davon ausgegangen werden, dass Postboten ihre Arbeit zuverlässig und korrekt erledigen, insbesondere, dass sie die postalischen Zustellungsvorschriften einhalten (LGVE 1998 I 48 Erw. 4.1.1). Dies ist eine Erfahrungstatsache (AGVE 1992 51 Erw. 4b). Nur in seltenen Ausnahmefällen kann das Erhalten einer Abholungseinladung mit Erfolg bestritten werden. Dies wäre beispielsweise der Fall, wenn sich nachträglich herausstellen würde, dass die in jener Zeit mit der Zustellung betraute Person nicht in der Lage oder willens war, ihren Obliegenheiten nachzukommen, oder wenn bekannt würde, dass die Zustellung in jener Zeit wegen bestimmter äusserer Umstände (Umbau oder Umzug der betreffenden Poststelle, Naturereignisse usw.) ganz allgemein nicht einwandfrei funktioniert hatte.
+In materieller Hinsicht ist sodann nötig, dass der Empfänger mit einer gewissen Wahrscheinlichkeit mit einer Zustellung hatte rechnen müssen (BGE 116 Ia 90 Erw. 2a). Dies ist, wiederum nach der Rechtsprechung, immer, aber auch erst dann der Fall, wenn der Empfänger als Partei an einem Verfahren beteiligt ist (BGE 119 V 89 Erw. 4b.aa; 117 V 131 Erw. 4a; BGE 116 Ia 90 Erw. 2c.bb; SCHÖLL, Rechtsmittelfrist bei nicht zugestellten behördlichen Akten, Der Treuhandexperte, 2002, 68 und 69).
+b) Im vorliegenden Fall wurde der mit eingeschriebener Post am 5. Oktober 2006 versandte Entscheid des Kreisgerichtspräsidenten vom 4. Oktober 2006 von der Poststelle des Empfängers nach Ablauf der postrechtlichen Abholfrist von sieben Tagen am 13. Oktober 2006 vorschrifts- und weisungsgemäss zurückgeschickt. Aufgrund dieser Sachlage ist davon auszugehen, dass dem Beklagten vorgängig eine Abholungseinladung zugestellt wurde. Umstände, die auf das Gegenteil schliessen lassen, sind weder ersichtlich, noch werden sie vom Beklagten geltend gemacht. Dieser beschränkt sich vielmehr darauf, den Empfang der Abholungseinladung ohne weitere Begründung zu bestreiten. Ohne weitere Angaben zu den konkreten Umständen kann im hier interessierenden Fall die Vermutung der ordnungsgemässen Zustellung der Abholungseinladung nicht als umgestossen betrachtet werden. Mangels auch nur glaubhaft gemachter Unregelmässigkeiten bei deren Zustellung ist somit davon auszugehen, dass die Abholungseinladung regulär in den Machtbereich des Beklagten gelangte, was als fristauslösender Vorgang genügt.
+Die 10-tägige Rekursfrist begann damit am 14. Oktober 2006 zu laufen (Art. 82 Abs. 1 GerG) und endete am 23. Oktober 2006. Indem der Beklagte die Rekursschrift erst am 25. Oktober 2006 dem Kantonsgericht persönlich überbrachte, verpasste er die Frist.
+2. Der Beklagte beantragt die Wiederherstellung der verpassten Frist. Eine solche wird gewährt, wenn der Säumige ein unverschuldetes Hindernis als Ursache der Säumnis glaubhaft macht. Bei leichtem Verschulden liegt die Wiederherstellung im Ermessen des Richters (Art. 85 Abs. 1 und 2 GerG).
+Ein Hindernis liegt gemäss Lehre vor, wenn die Zustellung oder Fristansetzung nicht formgerecht erfolgt war und der Partei oder ihrem Vertreter die rechtzeitige Kenntnisnahme nicht mehr möglich war oder wenn die Partei oder ihren Vertreter an der Versäumnis einer prozessualen Verwirkungsfrist kein oder - im Fall von Art. 85 Abs. 2 GerG - höchstens ein leichtes Verschulden trifft (HOLENSTEIN, Gerichtsgesetz des Kantons St. Gallen, Kommentar, Flawil 1987, 166 f.).
+Geht man nach dem Gesagten davon aus, dass die Zustellung ordnungsgemäss erfolgte, so ist der Einwand, keine Abholungseinladung erhalten zu haben, unbeachtlich. Andere Hindernisse als Ursachen der Säumnis aber werden nicht geltend gemacht und sind auch sonst nicht ersichtlich.
+Das Wiederherstellungsgesuch ist daher abzuweisen.
+3. Wurde die Rekursfrist aber verpasst und wird sie nicht wiederhergestellt, so kann auf den Rekurs nicht eingetreten werden.
+.....
