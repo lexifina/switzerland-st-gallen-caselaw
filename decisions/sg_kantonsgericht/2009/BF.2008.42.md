@@ -1,0 +1,29 @@
+---
+decision_id: "sg_publikationen_BF.2008.42"
+court: "SG Kantonsgericht"
+court_id: "sg_kantonsgericht"
+chamber: "Kantonsgericht"
+docket: "BF.2008.42"
+decided: "2009-01-12"
+published: "2009-01-12"
+language: "de"
+legal_area: "Zivilkammern (inkl. Einzelrichter)"
+source_url: "https://publikationen.sg.ch/rechtsprechung-gerichte-detail/1579/"
+pdf_url: "https://publikationen.sg.ch/rechtsprechung-gerichte?tx_diamjudicalsg_judicalpublicationpdf%5Bcontroller%5D=DownloadPdf&tx_diamjudicalsg_judicalpublicationpdf%5Bpublication%5D=1579&type=1563347022&cHash=00348b98e90cb9114f92da3bbea85a88"
+cites_decisions: ["5C.277/2001", "BGE 129 III 55", "BGE 84 II 244"]
+cites_law: ["switzerland/bund/acts/210/art-276.md", "switzerland/bund/acts/210/art-279.md", "switzerland/bund/acts/210/art-289.md", "switzerland/bund/acts/210/art-304.md"]
+---
+
+# Entscheid Kantonsgericht, 12.01.2009
+
+## Regeste
+
+Art. 279 ZGB. Der Unterhaltsanspruch ist vom Kind selber oder im Falle seiner Prozess­un­fähigkeit vom gesetzlichen Vertreter in dessen Namen geltend zu machen. Eine Prozess­stand­schaft ist im Schei­dungs- und Ehe­schutz­verfahren wegen der fehlenden Legiti­ma­tion des Kindes möglich, im Übrigen aber unzulässig (Kantons­gericht, II. Zivilkammer, 12. Januar 2009, BF.2008.42). Das Bundesgericht hat eine gegen diesen Entscheid erhobene Beschwerde abgewiesen (Urteil 5A_104/2009 neues Fenstervom 19. März 2009).
+
+## Text
+
+Aus den Erwägungen:
+Die Klägerin macht geltend, dass sie als Inhaberin der elterlichen Sorge die Unterhaltsklage in eigenem, statt im Namen des unmündigen Kindes erheben könne und beruft sich dafür insbesondere auf BGE 84 II 244. Diesem Entscheid zufolge sei der sorgeberechtigte Elternteil befugt, die Rechte des minderjährigen Kindes selber auszuüben und diese auch gerichtlich geltend zu machen. Daher sei es ihr zu gestatten, als Partei vor Gericht aufzutreten und die Unterhaltsklage in eigenem Namen zu erheben.
+Mit der Unterhaltsklage gemäss Art. 279 ZGB wird die abstrakte Unterhaltspflicht der Eltern gegenüber dem Kind in eine konkrete Leistungspflicht umgesetzt. Sie steht insbesondere für die klageweise Durchsetzung des Unterhaltsanspruchs des unmündigen oder mündigen Kindes gegen den ausserehehlichen Vater zur Verfügung (BernerKomm/Hegnauer, Art. 279 ZGB N 10 f.). Das Kind ist dabei berechtigt, für die Zukunft und für ein Jahr vor Klageerhebung auf Leistung zu klagen. In eherechtlichen Verfahren ist die Unterhaltsklage ausgeschlossen (BernerKomm/Heg­nauer, Art. 279 ZGB N 9).
+Der von der Klägerin zitierte Entscheid des Bundesgerichts stammt aus dem Jahre 1958 und erging somit noch unter altem Kindesrecht. Im Lichte des neuen Kindesrechts erfordert das Vorbringen der Klägerin nun eine andere Betrachtungsweise. Aus dem Sinn und Zweck des reformierten Rechts sowie aus dem eindeutigen Wortlaut des Gesetzes geht hervor, dass der Unterhaltsanspruch gemäss Art. 276 ff. ZGB allein dem Kind zusteht (Art. 289 Abs. 1 ZGB, erster Teilsatz). Folglich ist auch sein Unterhaltsanspruch mittels der Unterhaltsklage vom Kind selber oder im Falle seiner Prozessunfähigkeit durch seinen gesetzlichen Vertreter in dessen Namen geltend zu machen. Gleiches bestimmt das Gesetz im Übrigen auch hinsichtlich der Erfüllung der Unterhaltspflicht. Die Unterhaltsbeiträge sind zwar bis zur Mündigkeit des Kindes an seinen gesetzlichen Vertreter zu leisten, Gläubiger ist aber gleichwohl das Kind (Art. 289 Abs. 1 ZGB, zweiter Teilsatz). Die Aufgabe des gesetzlichen Vertreters beschränkt sich im Unterhaltsrecht im Wesentlichen also darauf, dem Recht des Kindes zu seiner Durchsetzung zu verhelfen. Will er jeweils handeln, so kann er dies. Er muss es aber im Namen des Kindes tun.
+Eine von der Klägerin geltend gemachte Prozessstandschaft des gesetzlichen Vertreters zur Geltendmachung des Unterhaltsanspruchs des Kindes in eigenem Namen ist vom Gesetz mithin nicht vorgesehen. Das Bundesgericht hat eine solche bislang in konstanter Rechtsprechung nur für das Scheidungs- und Eheschutzverfahren bejaht (BGE 129 III 55, 58 = Pra 92 Nr. 101; 112 II 199; 109 II 371, 372; vgl. auch BGer, Nr. 5C.277/2001). Auch die herrschende Lehre geht davon aus, dass eine Prozessstandschaft des gesetzlichen Vertreters im Falle einer Unterhaltshaltsklage ausgeschlossen ist und betont, dass eine solche auf die eherechtlichen Verfahren beschränkt werden sollte (BernerKomm/Heg­nauer, Art. 279/280 ZGB N 125 f.; Büchler/Vetterli, Ehe Partnerschaft Kinder, 217; Hinderling/Steck, Das schweizerische Ehescheidungsrecht, 457 f.; Hegnauer, Grundriss des Kindesrechts, Rz. 21.02 und 22.03; Haus­heer/Spy­cher, Handbuch des Unterhaltsrechts, Rz. 06.12 und 11.77 f.; Reusser, Die Geltend­machung des Unterhaltsanspruchs des Scheidungskindes, in: Festschrift Hegnauer, 395 ff., 404; BaslerKomm/Breitschmid, Art. 279 ZGB N 7; Stet­tler, in: Schweizerisches Privatrecht III/2, 309 f.). Begründet wird dies mit der fehlenden Prozessbefugnis des Kindes in eherechtlichen Verfahren. Anders gestaltet sich die Sachlage gemäss Art. 279 ZGB: Hier räumt das Gesetz dem Kind eine (ausschliessliche) Parteistellung ein. Im Unterschied zu den ehe­rechtlichen Verfahren kann es seinen Unterhaltsanspruch also selber durchsetzen oder, falls es noch nicht prozessfähig ist, sich von seinem gesetzlichen Vertreter vertreten lassen. Zu beachten ist dabei, dass unter den Begriff des gesetzlichen Vertreters nicht nur der Inhaber der elterlichen Sorge, sondern auch ein allfälliger Vormund des Kindes fällt, für welchen eine Prozessführung in eigenem Namen wohl ausser Frage steht (Reusser, 404). Der Grundsatz, dass das minderjährige Kind partei-, aber unter Umständen noch nicht prozessfähig ist, und daher im Verfahren regelmässig vom Inhaber der elterlichen Sorge vertreten wird, muss somit auch bei der Unterhaltsklage Geltung haben (Art. 304 ZGB; BGE 129 III 55, 58 E. 3.1.2. = Pra 92 Nr. 101).
