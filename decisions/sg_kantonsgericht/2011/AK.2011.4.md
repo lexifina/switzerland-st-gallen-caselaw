@@ -1,0 +1,29 @@
+---
+decision_id: "sg_publikationen_AK.2011.4"
+court: "SG Kantonsgericht"
+court_id: "sg_kantonsgericht"
+chamber: "Kantonsgericht"
+docket: "AK.2011.4"
+decided: "2011-03-01"
+published: "2020-01-29"
+language: "de"
+legal_area: "Strafkammer und Anklagekammer"
+source_url: "https://publikationen.sg.ch/rechtsprechung-gerichte-detail/6034/"
+pdf_url: "https://publikationen.sg.ch/rechtsprechung-gerichte?tx_diamjudicalsg_judicalpublicationpdf%5Bcontroller%5D=DownloadPdf&tx_diamjudicalsg_judicalpublicationpdf%5Bpublication%5D=6034&type=1563347022&cHash=4deac799b68519e95fb0628fefb06cd6"
+cites_decisions: ["2A.76/2001", "2P.92/2002", "5P.83/2001", "BGE 129 IV 206"]
+cites_law: ["switzerland/bund/acts/312.0/art-051.md", "switzerland/bund/acts/312.0/art-417.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# Entscheid Kantonsgericht, 01.03.2011
+
+## Regeste
+
+Art. 417 StPO (SR 321.0). Kostenauflage an den Parteivertreter (Anklagekammer, 1. März 2011, AK.2011.4).
+
+## Text
+
+3.    Wegen des Rückzuges des Rechtsmittels hättegrundsätzlich der Beschwerdeführer als unterliegende Partei die Kosten des vorliegenden Verfahrens zu tragen (Art. 428 Abs. 1 StPO). Ungeachtet des Verfahrensausgangs können aber bei Säumnis und anderen fehlerhaften Verfahrenshandlungen die Kosten der verfahrensbeteiligten Person auferlegt werden, die sie verursacht hat (Art. 417 StPO). Obwohl der Parteivertreter nicht Verfahrensbeteiligter im Sinne von Art. 104 f. StPO ist, kann er gemäss neuer Lehre und Rechtsprechung kosten- und entschädigungspflichtig werden, wenn er durch Verfahrensfehler, die mit einem Minimum an Vorsicht vermeidbar gewesen wären, unnötige Kosten verursacht hat. Der Parteivertreter wird dann Dritter im Sinne von Art. 105 Abs. 1 lit. f. StPO (Viktor Lieber, in: Andreas Donatsch/Thomas Hansjakob/Viktor Lieber (Hrsg.), Kommentar zur Schweizerischen Strafprozessordnung (StPO), Zürich 2010, N 4 zu Art. 417). Gemäss bundesgerichtlicher Rechtsprechung ist Voraussetzung für die (ganze oder teilweise) Kostenauflage an andere Verfahrensbeteiligte ein prozessuales Verschulden bzw. dass die Unzulässigkeit des Rechtsmittels oder Verfahrensschrittes bei einem Minimum an Sorgfalt sofort erkennbar war (BGE 129 IV 206 = Pra 92 [2003] Nr. 204 E.2).
+4.    Die hier zu beurteilende Rechtsmitteleingabe (Rechtsverweigerungsbeschwerde) wird in formeller Hinsicht im Wesentlichen wie folgt begründet: Gemäss Art. 51 Abs. 1 der Schweizerischen Jugendstrafprozessordnung vom 20. März 2009 (JStPO; SR 312.1) sei für Rechtsmittel das bisherige Recht anwendbar, weshalb sich die Rechtsverweigerungsbeschwerde nach Art. 254 ff. des kantonalen Strafprozessgesetzes vom 1. Juli 1999 (StP; sGS 961.1) richte. In Bezug auf die Einhaltung der 14-tägigen Rechtsmittelfrist gemäss Art. 256 StP seien die zuletzt durchgeführten Einvernahmen vom 9. und 10. Dezember 2010 massgeblich. Diese Frist sei unter Berücksichtigung der Gerichtsferien gemäss Art. 90 lit. b Gerichtsgesetz (sGS 941.1) eingehalten. Da die Rechtsverweigerungsbeschwerde auch mit der Rechtsverzögerung begründet sei, sei die "Rechtsmittelfrist ohnehin eingehalten, zumal der Angeschuldigte durch die Einweisung und Nichtentlassung aus dem Massnahmevollzug ohne Weiteres ein rechtlich geschütztes Interesse an der Entlassung aus dem Massnahmevollzug" habe (vgl. Art. 256 Abs. 1 Satz 2 StP).
+Mit der Rechtsverweigerungsbeschwerde vom 4. Januar 2011 wird die unverzügliche Entlassung des Beschwerdeführers aus dem vorsorglichen Massnahmevollzug beantragt. Er hatte indes weder gegen die vorsorgliche Verfügung der Jugendanwaltschaft betreffend seine vorsorgliche Unterbringung vom 29. April 2010 noch gegen die Verlängerung der vorsorglichen Massnahme bis Rechtskraft des Urteils, längstens bis 30. April 2011, vom 19. Oktober 2010 Beschwerde innert 14 Tagen gemäss der auf den beiden Entscheiden enthaltenen Rechtsmittelbelehrung erhoben. Die beiden Rechtsmittelfristen sind längst abgelaufen. Der Beschwerdeführer hat vorgängig, das heisst vor dem Einreichen der Rechtsverweigerungsbeschwerde, kein Gesuch um Entlassung aus dem vorsorglichen Massnahmenentzug gestellt. Es liegt kein ein solches Entlassungsgesuch ablehnender Entscheid vor, welcher Beschwerdegegenstand in Bezug auf die beantragte Entlassung aus dem vorzeitigen Massnahmenvollzug bilden könnte. Namentlich lässt sich dies auch nicht aus den (Konfrontations-)Einvernahmen 9. und 10. Dezember 2010 herleiten. Die Anklagekammer ist aber nicht zuständig, über Gesuche um Entlassung aus dem vorsorglichen Massnahmevollzug zu entscheiden. Zuständig hierzu ist die Staatsanwaltschaft (Art. 331 StP). Im vorliegenden Fall hätte erst gegen einen einen solchen Antrag ablehnenden Entscheid innert der gesetzlichen Frist die (ordentliche) Beschwerde gemäss Art. 230 StP bei der Anklagekammer eingereicht werden können (vgl. Art. 335 Abs. 1lit. b StP). Die Eintretensvoraussetzungen sind gestützt auf die bis Ende 2010 anwendbare kantonale Gesetzgebung (vgl. Art. 51 Abs. 1 StPO) klar nicht gegeben.
+Das Gesagte hat zur Folge, dass auf die Rechtsmitteleingabe des Beschwerdeführers vom 4. Januar 2011 nicht hätte eingetreten werden können.
+5.    Gemäss dem Gesagten muss das Einreichen der Rechtsverweigerungsbeschwerde vom 4. Januar 2011, womit die Entlassung des Beschwerdeführers aus dem vorsorglichen Massnahmevollzug beantragt wird, als absolut unnötig bezeichnet werden. Dies wäre aufgrund der Gesetzgebung ohne Weiteres erkennbar gewesen. Insoweit in der Rechtsverweigerungsbeschwerde hinsichtlich der Fristwahrung die zuletzt durchgeführten Einvernahme vom 9. und 10. Dezember 2010 als massgeblich angeführt werden, erfolgte dies in offensichtlicher Verkennung der Gesetzgebung. Insgesamt hat der Anwalt des Beschwerdeführers somit unnötige Kosten verursacht. Es sind ihm daher in Analogie zur Praxis des Bundesgerichtes (vgl. BGE 2A.76/2001 E.3.b; 5P.83/2001 E.8; 2P.92/2002 E.3; Pra 92 (2003) Nr. 204 E.2) die Kosten von Fr. 1'000.– aufzuerlegen.
