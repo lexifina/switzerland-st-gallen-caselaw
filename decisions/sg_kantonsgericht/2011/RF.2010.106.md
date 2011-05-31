@@ -1,0 +1,29 @@
+---
+decision_id: "sg_publikationen_RF.2010.106"
+court: "SG Kantonsgericht"
+court_id: "sg_kantonsgericht"
+chamber: "Kantonsgericht"
+docket: "RF.2010.106"
+decided: "2011-05-31"
+published: "2011-05-31"
+language: "de"
+legal_area: "Zivilkammern (inkl. Einzelrichter)"
+source_url: "https://publikationen.sg.ch/rechtsprechung-gerichte-detail/1790/"
+pdf_url: "https://publikationen.sg.ch/rechtsprechung-gerichte?tx_diamjudicalsg_judicalpublicationpdf%5Bcontroller%5D=DownloadPdf&tx_diamjudicalsg_judicalpublicationpdf%5Bpublication%5D=1790&type=1563347022&cHash=d2490dd75891a4c8110c806ae66bf3dd"
+cites_decisions: ["5A_457/2009"]
+cites_law: ["switzerland/bund/acts/210/art-307.md", "switzerland/bund/acts/210/art-308.md"]
+---
+
+# Entscheid Kantonsgericht, 31.05.2011
+
+## Regeste
+
+Art. 307 ZGB: Eine Familienmediation orientiert sich ausschliesslich an den Interessen der Kinder. Sie dient nicht dazu, die Paarprobleme der Eltern zu lösen. Ihre Anordnung im Rahmen eines Eheschutzverfahrens ist nur in Ausnahmefällen angezeigt (Kantonsgericht, Einzelrichter im Familienrecht, 31. Mai 2011, RF.2010.106).
+
+## Text
+
+Aus den Erwägungen:
+a)    Ziffer 4 des vorinstanzlichen Urteils betreffend Anordnung einer Beistandschaft gemäss Art. 308 Abs. 2 ZGB zur Überwachung des persönlichen Verkehrs ist nicht angefochten. Angesichts der immer wieder auftauchenden Probleme und der mangelnden bzw. mangelhaften Kommunikation der Eltern erscheint sie denn auch sachgerecht. Zu betonen ist dabei, dass sich die Beistandschaft nicht auf eine Überwachung des Besuchsrechts beschränken darf, sondern im Sinn der Erwägungen der Vorinstanz (vi Urteil, S. 9 f.) dazu dienen soll, die Kinder bei der Durchführung des Besuchsrechts zu entlasten, Ansprechperson zu sein und frühzeitig zu erkennen, ob eine Ausdehnung oder eine Einschränkung des persönlichen Kontakts angezeigt ist.
+b)    Strittig ist die Anordnung einer Weisung an die Mutter zur Teilnahme an einer Familienmediation. Die Vorinstanz hielt eine solche Weisung derzeit für nicht notwendig. Es bleibe vorläufig abzuwarten, wie sich das Verhältnis zwischen den Eltern nach Vorliegen des Entscheids und der Besuchsregelung entwickle (vi Urteil, S. 10). Der Ehemann stellte sich demgegenüber auf den Standpunkt, dass seine Frau wohl gewisse Massnahmen getroffen habe, um ihrer Ansicht nach mögliche Konflikte bei der Besuchsrechtsausübung zu vermeiden. Die Auswahl der Massnahmen sollte jedoch nicht ihr überlassen werden. Er erneuere deshalb den Antrag auf Erteilung einer Weisung, da nicht anzunehmen sei, dass sich seine Frau freiwillig zur Teilnahme an einer Familienmediation entschliessen könnte, und sie als Eltern es im Interesse der Kinder schaffen müssten, wieder eine normale Kommunikation aufzubauen und ihre Paarprobleme zu lösen bzw. hinter die Interessen der Kinder zu stellen.
+aa) Im Entscheid 5A_457/2009, E. 4.3, erwog das Bundesgericht, dass Art. 307 Abs. 3 ZGB eine rechtsgenügliche Grundlage für die Anordnung einer Pflichtmediation (durch die Vormundschaftsbehörde) bilde. In Bezug auf deren Voraussetzungen sodann hielt es dafür, dass sich eine angeordnete von einer freiwilligen Mediation in der konsequenten Orientierung an den Interessen und Rechten der Kinder unterscheide. Dabei würden hochstrittige Eltern, die sich erfahrungsgemäss zumeist von ihren Ängsten, Verletzungen und hauptsächlich von ihren Erwachseneninteressen leiten liessen, mit den Interessen und Bedürfnissen ihrer Kinder konfrontiert, und sie würden erfahren, wie sich ihr Konflikt auf die Befindlichkeit ihrer Kinder auswirke und was sie für ihre Kinder tun könnten. In dieser Hinsicht unterscheide sich die Pflichtmediation nicht von einer Begutachtung mit dem Ziel, die allfällige Entfremdung der Kinder gegenüber einem Elternteil aufzulösen (vgl. auch Beschluss des Obergerichts des Kantons Zürich vom 19. Juni 2008 in FamPra.ch 2009 S. 256 ff.).
+bb) Vergleichbar mit den erwähnten vom Bundesgericht und dem Obergericht Zürich beurteilten Fällen muss auch hier von einer mangelnden bzw. mangelhaften Kommunikation der Eltern in Bezug auf die Kinderbelange ausgegangen werden. Allerdings beschränkt sich diese Kommunikationsunfähigkeit, soweit ersichtlich, im Wesentlichen auf die Bereiche Umfang der Betreuung durch den Vater und Modalitäten der Ausübung des persönlichen Kontakts zwischen den Kindern und dem Vater. Dabei muss zwar davon ausgegangen werden, dass die Kinder unter den Konflikten der Eltern leiden. Die Intensität einer allfälligen Gefährdung steht aber zurzeit nicht fest. Hinzu kommt, dass, vorbehaltlich der Rechtskraft dieses Entscheides, erst jetzt und damit nach einer längeren Phase der Ungewissheit der Umfang des persönlichen Kontakts zwischen den Kindern und dem Vater verbindlich geregelt und sich erst noch zeigen wird, wie die Eltern mit einer verbindlichen Regelung und unterstützt von einer Beistandschaft (hierzu vorn lit. a) umgehen werden. Zu berücksichtigen ist schliesslich auch, dass es den Eltern offenbar gelungen ist, sich vorläufig freiwillig an die von der Familienrichterin getroffene Regelung zu halten, und dass sie im gegenseitigen Einvernehmen für die Feiertage eine Lösung gefunden habe, ohne dass es – mit einer aktenkundigen Ausnahme – zu nennenswerten Problemen gekommen zu sein scheint. Vor diesem Hintergrund und mit Rücksicht auf den Grundsatz der Verhältnismässigkeit erscheint der Entscheid der Vorinstanz, vorerst einmal die weitere Entwicklung abzuwarten und auf die Anordnung der Weisung betreffend Teilnahme an einer Familienmediation zu verzichten, vertretbar, ist eine solche Weisung doch, stellt man auf die Rechtsprechung ab, nur im Ausnahmefall angezeigt und geht der Ehemann fehl in der Annahme, die Familienmediation bezwecke (auch), "ihre Paarprobleme" zu lösen (Rekursschrift vom 27. Dezember 2010, S. 24).
