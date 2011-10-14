@@ -1,0 +1,28 @@
+---
+decision_id: "sg_publikationen_FS.2011.18"
+court: "SG Kantonsgericht"
+court_id: "sg_kantonsgericht"
+chamber: "Kantonsgericht"
+docket: "FS.2011.18"
+decided: "2011-10-14"
+published: "2011-10-14"
+language: "de"
+legal_area: "Zivilkammern (inkl. Einzelrichter)"
+source_url: "https://publikationen.sg.ch/rechtsprechung-gerichte-detail/1816/"
+pdf_url: "https://publikationen.sg.ch/rechtsprechung-gerichte?tx_diamjudicalsg_judicalpublicationpdf%5Bcontroller%5D=DownloadPdf&tx_diamjudicalsg_judicalpublicationpdf%5Bpublication%5D=1816&type=1563347022&cHash=56098d103185ff759e9474bdeb470160"
+cites_decisions: ["5A_159/2007", "5A_838/2009"]
+cites_law: ["switzerland/bund/acts/210/art-175.md", "switzerland/bund/acts/210/art-179.md", "switzerland/bund/acts/272/art-279.md"]
+---
+
+# Entscheid Kantonsgericht, 14.10.2011
+
+## Regeste
+
+Art. 179 Abs. 1 ZGB: Wenn sich Ehegatten, welche die Trennungsfolgen in einer aussergerichtlichen Vereinbarung geregelt haben, nicht darüber einigen können, ob veränderte Verhältnisse eine Anpassung der Regelung rechtfertigen, dann beurteilt der Richter das Begehren eines Ehegatten auf Festlegung des Unterhalts nicht unter dem Aspekt der Neuregelung bei veränderten Verhältnissen, sondern legt den Unterhalt wie bei erstmaliger Anrufung des Gerichts unabhängig davon fest, ob sich die Verhältnisse seit Abschluss der privaten Trennungsvereinbarung geändert haben (Kantonsgericht, Einzelrichter im Familienrecht, 14. Oktober 2011, FS.2011.18).
+
+## Text
+
+Sachverhalt:
+Die Ehegatten trennten sich 2008. Im Rahmen einer umfassenden aussergerichtlichen Trennungsvereinbarung regelten sie auch den Unterhalt. 2010 gelangten sie mit einem gemeinsamen Scheidungsbegehren ans Kreisgericht. Im Laufe des Scheidungsverfahrens ersucht der Ehemann um Erlass vorsorglicher Massnahmen betreffend u.a. den Unterhalt. Die Ehefrau beantragt die Abweisung des Begehrens mit der Begründung, sie hätten sich bei der Trennung aussergerichtlich geeinigt.
+Aus den Erwägungen:
+Aussergerichtliche Vereinbarungen über die Regelung des Getrenntlebens bedürfen für ihre Gültigkeit in analoger Anwendung von Art. 279 ZPO bzw. aArt. 140 ZGB der gerichtlichen Genehmigung (GVP 2005 Nr. 44; FamKomm / Vetterli, Anh. ZPO Art. 272, N 6 f., mit Hinweisen; offen gelassen in BGer 5A_159/2007 E. 4.1 und 5A_838/2009 E. 4.1). Diese Genehmigungsbedürftigkeit ist hier vorab insofern von Bedeutung, als die Ehefrau keinen Antrag auf Genehmigung der umfassenden aussergerichtlichen Einigung von 2008 gestellt hat. Dies würde an sich nicht ausschliessen, die Frage, ob die gegenseitigen Begehren der Ehegatten unter dem Aspekt der Abänderung einer einmal getroffenen Regelung zu beurteilen sind oder ob von originären Massnahmebegehren auszugehen ist, im Sinn des Ersteren zu beantworten. Dann wäre auf Art. 179 Abs. 1 ZGB abzustellen, wonach die Massnahmen betreffend die Regelung der Verhältnisse bei Auflösung des gemeinsamen Haushalts anzupassen oder aufzuheben sind, wenn sich die Verhältnisse geändert haben (Art. 179 Abs. 1 erster Halbsatz ZGB; zur Anwendung dieser Bestimmung auch im Verfahren betreffend vorsorgliche Massnahmen während der Dauer des Scheidungsverfahrens vgl. FamKomm Scheidung / Vetterli, Vorbem. zu Art. 175-179 ZGB, N 20), sei es, dass die aktuelle tatsächliche Situation wesentlich und dauerhaft anders ist als ursprünglich angenommen, sei es, dass die ursprünglichen Verhältnisse (offensichtlich) falsch gewürdigt worden waren (FamKomm / Vetterli, Vorbem. zu Art. 175-179 ZGB, N 21, und Art. 179 ZGB, N 2 f.). Der Wortlaut von Art. 179 Abs. 1 ZGB, der von einer Anpassung der "Massnahmen" spricht, lässt die Anwendbarkeit dieser Bestimmung auf die Überprüfung einer aussergerichtlichen Regelung nicht von Vornherein ausgeschlossen erscheinen. Dies gilt bei der Unterhaltsregelung auch unter dem Aspekt, dass sie sich an der von den Ehegatten getroffenen Verständigung über den Beitrag am gebührenden Unterhalt der Familie orientiert (Art. 163 Abs. 1 und Abs. 2 ZGB). Zudem stellen auch aussergerichtliche Vereinbarungen letztlich einen Vertrag dar, an welchen die Ehegatten gebunden sind und den sie nicht einseitig widerrufen können (vgl. BernerKomm / Bühler/Spühler, aArt. 145 ZGB, N 431; FamKomm Scheidung / Vetterli, 2005, Art. 175 ZGB, N 12). Zu berücksichtigen ist allerdings auch, dass Art. 179 ZGB systematisch zu den "gerichtlichen Massnahmen" im Kapitel über den "Schutz der ehelichen Gemeinschaft" bei "Aufhebung des gemeinsames Haushaltes" gehört und damit inhaltlich eine vorgängige gerichtliche Regelung voraussetzt. Hinzu kommt, dass die Ehegatten in Bezug auf den Kinderunterhalt nicht autonom sind (vgl. hierzu FamKomm Scheidung / Wullschleger, Allg. Bem. zu Art. 276-293 ZGB, N 18 und N 19). Trotz einer gewissen vorläufigen Bindungswirkung einer privaten Trennungsvereinbarung erscheint daher angezeigt, bei erstmaliger Anrufung des Gerichts die Unterhaltsfrage zumindest dann uneingeschränkt gerichtlich zu beurteilen, wenn, wie hier (anders offenbar im BGer 5A_159/2007 zu Grunde liegenden Sachverhalt), eine aussergerichtliche Regelung voranging und der Ehegatte, der unveränderte Verhältnisse geltend macht, nicht die Genehmigung derselben beantragt (ebenso Grütter/Trachsel, Aktuelle Aspekte des Eheschutzes, in: FamPra.ch 2004 873, und Dolder/Diethelm, Eheschutz [Art. 175 ZGB] – ein aktueller Überblick, in: AJP 2003 664). Letztlich würde die Anwendung von Art. 179 Abs. 1 ZGB im Übrigen an der Beurteilung ohnehin insofern nichts ändern, als sich die Verhältnisse gegenüber 2008 deshalb verändert haben, weil der Ehemann zwischenzeitlich arbeitslos war und ihm, wie zu zeigen sein wird, nicht das tatsächliche, sondern ein hypothetisches Einkommen anzurechnen ist, das deutlich unter demjenigen von 2008 liegt.
