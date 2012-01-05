@@ -1,0 +1,28 @@
+---
+decision_id: "sg_publikationen_FO.2011.5"
+court: "SG Kantonsgericht"
+court_id: "sg_kantonsgericht"
+chamber: "Kantonsgericht"
+docket: "FO.2011.5"
+decided: "2012-01-05"
+published: "2012-01-05"
+language: "de"
+legal_area: "Zivilkammern (inkl. Einzelrichter)"
+source_url: "https://publikationen.sg.ch/rechtsprechung-gerichte-detail/1823/"
+pdf_url: "https://publikationen.sg.ch/rechtsprechung-gerichte?tx_diamjudicalsg_judicalpublicationpdf%5Bcontroller%5D=DownloadPdf&tx_diamjudicalsg_judicalpublicationpdf%5Bpublication%5D=1823&type=1563347022&cHash=9a5e2a1dbf2d117f203ddfd4968fca73"
+cites_law: ["switzerland/bund/acts/210/art-028b.md", "switzerland/bund/acts/210/art-176.md", "switzerland/bund/acts/210/art-292.md"]
+---
+
+# Entscheid Kantonsgericht, 05.01.2012
+
+## Regeste
+
+Art. 28b ZGB: Das Kreisgericht verbot dem Ehemann erstens, mit der Ehefrau Kontakt aufzunehmen oder sie in anderer Weise zu belästigen (Kontaktverbot), und zweitens, sich in einem Umkreis von 200 m um ihre jeweilige Wohnadresse aufzuhalten (Annäherungsverbot). Bedingung für eine solche Massnahme nach Art. 28b ZGB ist zum einen eine Persönlichkeitsverletzung in Form von Gewalt, Drohung oder Nachstellung (BaslerKomm/Meili, Art. 28b ZGB, N 3), wobei ein Verschulden nicht vorausgesetzt ist (BaslerKomm/Meili, Art. 28b ZGB, N 6). Zum andern müssen die Verbote nach dem Verhältnismässigkeitsprinzip geeignet, notwendig und zumutbar sein (FamKomm Scheidung/Vetterli, Art. 176 ZGB, N 20). Das bedeutet, dass das Schutzinteresse der einen Person das Freiheitsinteresse der anderen Person überwiegen muss (Kantonsgericht, II. Zivilkammer, 5. Januar 2012, FO.2011.5).
+
+## Text
+
+Aus den Erwägungen:
+Eine Durchsicht der Straf- und Zivil-Akten zeigt, dass der Ehemann der Ehefrau seit der Trennung immer wieder nachstellt, sie zu kontrollieren versucht und sogar das Kind mit einbezieht, indem er es über die Lebensverhältnisse der Mutter ausfragt. Der Ehemann hat die Ehefrau nachweislich telefonisch belästigt und sich trotz Verbots in der Umgebung der ehelichen Wohnung aufgehalten. Zudem nahm er ausserhalb des Besuchsrechts wiederholt Kontakt zum Kind auf, bis ihm das amtlich verboten wurde. Schliesslich wirft der Ehemann der Ehefrau seit Jahren und mit Vehemenz vor, sie sei psychisch krank. Dieses Verhalten ist ebenfalls übergriffig. Der Tatbestand nach Art. 28b ZGB ist damit offensichtlich erfüllt (vgl. auch KGer SG, Mitteilungen zum Familienrecht, Sonderheft häusliche Gewalt, 45; Büchler/Michel, Besuchsrecht und häusliche Gewalt, FamPra.ch 2011, 525).
+Das Verhalten des Ehemanns, welches bisweilen gar als Stalking bezeichnet wird, dauert nun schon viele Jahre an. Eine eigentliche Einsicht in sein Fehlverhalten lässt sich nicht erkennen. Die Ehefrau wird durch dieses, auch nach Darstellung der Beistände, erheblich beeinträchtigt und musste lange Zeit die Begleitung der Beratungsstelle für gewaltbetroffene Frauen in Anspruch nehmen. Der Ehemann wirft der Ehefrau vor, sie nehme von sich aus Kontakt zu ihm auf und habe daher kein Anrecht auf ein Kontaktverbot. Die Ehefrau bestreitet, mit dem Ehemann in Verbindung getreten zu sein. Selbst wenn sie von sich aus Kontakt aufgenommen hätte, würde dieses Verhalten aber nicht unbedingt heissen, dass die Ehefrau Begegnungen mit dem Ehemann wirklich wünscht, sondern es wäre wohl eher Ausdruck eines immer noch bestehenden Abhängigkeits- und Abgrenzungsproblems einer Ehefrau, welche vor der Trennung weder ausserhäuslich arbeitete, noch in der Schweiz sozial verankert, noch der deutschen Sprache mächtig war. Die Ehefrau muss daher vor weiteren Nachstellungen des Ehemanns geschützt werden. Auch die Beiständin befürwortet das Kontakt- und Annäherungsverbot weiterhin. Diese sind notwendig und geeignet, die Integrität der Ehefrau zu wahren. Zudem ist es dem Ehemann zumutbar, sich von der Ehefrau fern zu halten, nachdem er selber in die Scheidung einwilligte. Ein Annäherungsverbot im Umkreis von 200 m zur Wohnung der Ehefrau wird als Regel-Abstand bezeichnet (BaslerKomm/Meili, Art. 28b ZGB, N 6, m.w.H.). Es schränkt den Ehemann, welcher sich nur von einem kleinen Rayon fernhalten muss, nicht übermässig ein. Dieser kann sich im Übrigen betreffend Wohlergehen des Kindes immer bei der Beiständin erkundigen und ist auch aus diesem Grund nicht auf Kontakte mit der Ehefrau angewiesen. Sowohl das Kontakt- als auch das Annäherungsverbot scheinen daher angemessen. (…)
+Der Ehemann macht schliesslich geltend, ein Kontaktverbot bis 2015 sei übermässig. Die Belästigungen begannen aber spätestens mit der Trennung, dauerten viele Jahre fort, und in der Literatur wird die Meinung vertreten, das Kontaktverbot habe mindestens der Belästigungsdauer zu entsprechen (BaslerKomm/Meili, Art. 28b ZGB, N 6, m.w.H.). Die Ehefrau muss nun ausreichend Zeit haben, ihr neues Leben zu gestalten. Sie muss sich endgültig und sicher vom Ehemann ablösen, die erlittenen Verletzungen verarbeiten und sich beruflich, sprachlich und sozial in ihrem neuen Leben zurecht finden. Dafür wird sie viele Jahre benötigen, und Begegnungen mit dem Ehemann sind in dieser Zeit möglichst zu vermeiden. Die Anordnung des Kreisgerichts, welche das Kontakt- und Annäherungsverbot bis 2015 befristete, erscheint daher auch zeitlich als verhältnismässig. Abschliessend bleibt zu betonen, dass es nicht zuletzt im Kindeswohl liegt, wenn es den Eltern gelingt, ihre Spannungen abzubauen und ihr Verhältnis zu beruhigen.
+Die Androhung der Bestrafung nach Art. 292 ZGB ist üblich (BaslerKomm/Meili, Art. 28b ZGB, N 6) und der unmittelbare Vollzug durch die Polizei sinnvoll. Diese Anordnungen sind daher ebenfalls zu bestätigen.
