@@ -1,0 +1,244 @@
+---
+decision_id: "sg_gerichte_AW.2015.39"
+court: "SG Gerichte"
+court_id: "sg_gerichte"
+chamber: "AW"
+docket: "AW.2015.39"
+decided: "2015-10-29"
+language: "de"
+source_url: "https://publikationen.sg.ch/rechtsprechung-gerichte?tx_diamjudicalsg_judicalpublicationpdf%5Bcontroller%5D=DownloadPdf&tx_diamjudicalsg_judicalpublicationpdf%5Bpublication%5D=1983&type=1563347022&cHash=ed0f37c7dc5b73ed0a9a69f7fe840b08"
+pdf_url: "https://publikationen.sg.ch/rechtsprechung-gerichte?tx_diamjudicalsg_judicalpublicationpdf%5Bcontroller%5D=DownloadPdf&tx_diamjudicalsg_judicalpublicationpdf%5Bpublication%5D=1983&type=1563347022&cHash=ed0f37c7dc5b73ed0a9a69f7fe840b08"
+cites_law: ["switzerland/bund/acts/101/art-036.md", "switzerland/bund/acts/311.0/art-014.md", "switzerland/bund/acts/311.0/art-197.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-235.md", "switzerland/bund/acts/935.61/art-012.md", "switzerland/bund/acts/935.61/art-015.md", "switzerland/bund/acts/935.61/art-017.md"]
+---
+
+# SG Gerichte AW.2015.39
+
+## Regeste
+
+Verletzung von Art. 12 lit. a BGFA, indem Rechtsanwalt A. dem inhaftierten X. Aktenkopien mit verbotenen kinderpornografischen Abbildungen in die Haftanstalt zustellte (Kantonsgericht, Anwaltskammer, 29. Oktober 2015 (AW.2015.39).
+
+## Text
+
+Publikationsplattform
+St.Galler Gerichte
+Fall-Nr.:
+AW.2015.39
+Stelle:
+Kantonsgericht
+Rubrik:
+Anwaltskammer
+Publikationsdatum: 29.10.2015
+Entscheiddatum:
+29.10.2015
+Entscheid Kantonsgericht, 29.10.2015
+Verletzung von Art. 12 lit. a BGFA, indem Rechtsanwalt A. dem inhaftierten X. 
+Aktenkopien mit verbotenen kinderpornografischen Abbildungen in die 
+Haftanstalt zustellte (Kantonsgericht, Anwaltskammer, 29. Oktober 2015 
+(AW.2015.39). 
+Aus den Erwägungen:
+I. 1. Am 8. Mai 2015 zeigte die Staatsanwaltschaft […] der Anwaltskammer in 
+Anwendung von Art. 15 Abs. 1 BGFA eine mögliche Berufsregelverletzung durch 
+Rechtsanwalt A. an. Zur Begründung legte die Staatsanwaltschaft im Wesentlichen dar, 
+dass Rechtsanwalt A. in einem gegen X. geführten Strafverfahren wegen des Verdachts 
+der sexuellen Handlungen mit Kindern sowie der Pornografie als amtlicher Verteidiger 
+tätig sei. X. befinde sich seit dem 2. Oktober 2014 wegen Verdunkelungsgefahr in 
+Untersuchungshaft. Am 26. März 2015 habe die verfahrensleitende Staatsanwältin von 
+der Gefängnisleitung […] eine Meldung erhalten, wonach im Zuge der tags zuvor 
+erfolgten Verlegung von X. festgestellt worden sei, dass dieser bei seinen Effekten eine 
+Kartonschachtel mit Untersuchungsakten mitgeführt habe, die (verbotene) 
+pornografische Aufnahmen enthalte. In der Folge sei die Schachtel an die 
+verfahrensleitende Staatsanwältin weitergeleitet worden. Da das Adressierungsfeld der 
+Kartonschachtel mit "Anwaltspost" beschriftet sei, habe die Staatsanwaltschaft den 
+Inhalt jedoch nicht gesichtet. Aus der Meldung der Gefängnisleitung gehe hervor, dass 
+es sich bei den gefundenen Aufnahmen mit überwiegender Wahrscheinlichkeit um 
+kinderpornografische Abbildungen handle, welche u.a. dem Haftverlängerungsgesuch 
+der Staatsanwaltschaft vom 6. November 2014 beigelegt gewesen seien. Es bestehe 
+somit die Vermutung, dass Rechtsanwalt A. Kopien von aus den Verfahrensakten 
+stammenden (verbotenen) pornografischen Darstellungen erstellt und diese dann dem 
+inhaftierten X. im Rahmen des freien Verkehrs entweder anlässlich einer Besprechung 
+© Kanton St.Gallen 2026
+Seite 1/6
+
+
+Publikationsplattform
+St.Galler Gerichte
+ausgehändigt oder mittels Anwaltspost ins Gefängnis zugestellt und zum 
+gutscheinenden Gebrauch überlassen habe. Dieses Vorgehen von Rechtsanwalt A. sei 
+nach Auffassung der Staatsanwaltschaft nicht mit einer sorgfältigen und 
+gewissenhaften Berufsausübung vereinbar.
+[2.-5. Prozessgeschichte]
+II.1. Nach Art. 12 lit. a BGFA haben Anwälte ihren Beruf sorgfältig und gewissenhaft 
+auszuüben. Diese Pflicht bezieht sich einerseits auf das Verhältnis zwischen Anwalt 
+und Klient, andererseits auch auf das Verhalten gegenüber Behörden, der Gegenpartei 
+und der Öffentlichkeit (Fellmann, in: Fellmann/Zindel, Kommentar zum Anwaltsgesetz, 
+2. A., Zürich 2011, Art. 12 N 12).
+Der Anwalt soll die ihm anvertrauten Interessen nach bestem Wissen und Gewissen 
+wahren. Andererseits schränkt die berufsrechtlich gebotene Gewissenhaftigkeit den 
+Anwalt auch in der Wahl der Mittel ein, indem sie ihm gebietet, die Wahrung der 
+Interessen des Klienten ausschliesslich mit rechtlich zulässigen Mitteln zu betreiben, 
+namentlich keine vom Gesetz verpönten Zwecke zu verfolgen und Verteidigungsmittel 
+zu gebrauchen (Fellmann, a.a.O., Art. 12 N 37a).
+2. Der Rechtsstaat räumt dem Anwalt im Verfahren aufgrund seiner Vertrauensstellung 
+verschiedene Privilegien ein. So erhält er beispielsweise Einsicht in die Verfahrensakten 
+und kann diese auch in seine Kanzlei mitnehmen (Fellmann, a.a.O., Art. 12 N 45). Die 
+Originalakten dürfen zwar nicht an den Klienten herausgegeben werden. Der Anwalt ist 
+jedoch grundsätzlich befugt, seinem Klienten Einsicht in diese Akten zu geben und ihm 
+von den wesentlichen Unterlagen Kopien auszuhändigen (Fellmann, a.a.O., Art. 12 
+N 46). In bestimmten Verfahren ist es allerdings möglich, dass dem Anwalt Akten nur 
+mit der Auflage herausgegeben werden, weder seinem Klienten noch Dritten Einsicht 
+zu gewähren, sie weder im Original noch in Kopie herauszugeben oder sonst wie 
+zugänglich zu machen. In einem solchen Fall stellt die Aushändigung von Akten an den 
+Klienten einen Missbrauch von Privilegien dar, die dem Anwalt im Umgang mit den 
+Behörden eingeräumt werden, und der Anwalt verstösst damit gegen die Berufsregel 
+des Art. 12 lit. a BGFA.
+© Kanton St.Gallen 2026
+Seite 2/6
+
+
+Publikationsplattform
+St.Galler Gerichte
+3. Im Strafprozess entscheidet gemäss Art. 102 StPO die Verfahrensleitung über die 
+Akteneinsicht. Sie trifft die erforderlichen Massnahmen, um Missbräuche und 
+Verzögerungen zu verhindern und berechtigte Geheimhaltungsinteressen zu schützen 
+(Abs. 1). Die Akten sind am Sitz der betreffenden Strafbehörde oder rechtshilfeweise 
+bei einer anderen Strafbehörde einzusehen. Anderen Behörden sowie den 
+Rechtsbeiständen der Parteien werden sie in der Regel zugestellt (Abs. 2). Die 
+anwaltlichen Verteidiger haben einen (grundsätzlich uneingeschränkten) Anspruch auf 
+Zustellung sämtlicher Akten. Der postalischen oder anderweitigen Zustellung 
+gleichgestellt ist das Überlassen der Akten zur Mitnahme. Die Anklagekammer des 
+Kantons St. Gallen hat es in einem dieses Jahr ergangenen Entscheid als zulässig 
+erachtet, dass einem Verteidiger nur zeitlich beschränkt Einsicht in die DVD-Aufnahme 
+der Befragung eines minderjährigen mutmasslichen Opfers von Sexualdelikten 
+gewährt, die Überlassung einer Kopie der Aufnahme jedoch verweigert wurde, um eine 
+Weiterverbreitung zu verhindern (Entscheid der Anklagekammer des Kantons St. Gallen 
+vom 31. März 2015, AK.2015.57, E. II.3, publiziert auf www.gerichte.sg.ch; die 
+Transkription der Befragung wurde dem Verteidiger hingegen ohne Einschränkung 
+überlassen). Das Bundesgericht hatte sich in einem Entscheid vom 8. November 2012 
+mit einer ähnlichen Konstellation zu befassen. Es beschränkte auf Beschwerde eines 
+Opfers bzw. dessen Mutter das Akteneinsichtsrecht in dem Sinne, dass es die 
+Videoaufzeichnung der Opferbefragung und deren Transkription der Verteidigung nur 
+unter strengen Auflagen überliess. Der Verteidiger durfte die Aufzeichnung weder 
+kopieren, noch seinem Klienten oder Dritten überlassen. Er hatte alle Vorkehren zu 
+treffen, dass die Aufzeichnung und deren Inhalt nicht weiterverbreitet wurde und die 
+Visionierung durch den Beschuldigten nur im Beisein der Verteidigung erfolgte. Die 
+Aufzeichnung musste zudem nach Abschluss des Verfahrens der Staatsanwaltschaft 
+zurückgegeben werden (BGer 1B_444/2012 E. 3).
+4. Rechtsanwalt A. macht geltend, dass die Staatsanwaltschaft ihm die Strafakten 
+vorbehaltlos überlassen habe. Deren Offenlegung gegenüber dem Beschuldigten 
+könne deshalb keine Berufsregelverletzung darstellen. Soweit er als Verteidiger dem 
+Beschuldigten den Akteninhalt mitteilen dürfe, sei er prozessual auch berechtigt, 
+diesem Aktenkopien auszuhändigen. Ausnahmen von diesem Grundsatz könnten nur 
+dann in Betracht kommen, wenn die Aushändigung den Untersuchungszweck 
+gefährden oder die Kopien für verfahrensfremde Zwecke missbraucht werden könnten. 
+© Kanton St.Gallen 2026
+Seite 3/6
+
+
+Publikationsplattform
+St.Galler Gerichte
+Es sei indessen nicht Aufgabe der Verteidigung, darüber zu entscheiden, welche Akten 
+dem Klienten vorenthalten werden müssten. Diese Verantwortung könne nur von den 
+Strafbehörden getragen werden. Es gebe keine gesetzliche Grundlage, gestützt auf 
+welche die Verteidigung daran gehindert werden könnte, Akten an den Beschuldigten 
+weiterzuleiten, sofern diese auflagenfrei übergeben worden seien.
+Diese Argumentation verkennt allerdings die spezielle Art der Dokumente, die 
+Rechtsanwalt A. an seinen Klienten weitergegeben hat. In der Schachtel, die bei 
+diesem sichergestellt wurde, finden sich u.a. diverse Fotos, die ihm anlässlich einer 
+staatsanwaltschaftlichen Einvernahme vom 23. Oktober 2014 vorgehalten worden 
+waren. Das Einvernahmeprotokoll samt Fotos bildete Bestandteil des 
+Haftverlängerungsantrags, den die Staatsanwaltschaft am 6. November 2014 in der 
+Strafuntersuchung wegen Verdachts der sexuellen Handlungen mit einem Kind und 
+Pornografie gestellt hatte. Ein ebenfalls in der Schachtel befindliches Schreiben vom 7. 
+November 2014 lässt darauf schliessen, dass Rechtsanwalt A. diesen Haftantrag 
+seinem in Untersuchungshaft befindlichen Klienten zugestellt hat. Unklar ist, ob 
+Rechtsanwalt A. mit diesem Schreiben auch Unterlagen des Haftgesuchs übermittelte 
+oder ob dies allenfalls erst später erfolgte; auf Letzteres deutet der Umstand, dass die 
+Schachtel, in der sich die Fotos und zahlreiche weitere Dokumente befanden, von 
+Rechtsanwalt A. erst am 16. Dezember 2014 per Post an seinen Klienten abgeschickt 
+worden war. Fest steht, dass sich in der Schachtel nicht nur das Einvernahmeprotokoll, 
+sondern auch die erwähnten Fotos befanden, und unbestritten ist auch, dass X. diese 
+von Rechtsanwalt A. erhalten hat. Die Fotos zeigen u.a. ein Kind in einer Badewanne, 
+das den Penis eines Erwachsenen in seiner rechten Hand hält, ferner ein Kind, dem der 
+Penis eines Erwachsenen ins Gesicht gedrückt wird, sowie weitere sexuelle 
+Darstellungen mit Kindern.
+Es steht ausser Zweifel, dass diese Fotos als kinderpornografische Bildaufnahmen im 
+Sinne des Straftatbestandes von Art. 197 Abs. 4 StGB zu qualifizieren sind. Nach der 
+genannten Bestimmung macht sich u.a. strafbar, wer solche Bildaufnahmen zeigt, 
+überlässt, zugänglich macht oder besitzt. Soweit Rechtsanwalt A. die Fotos seinem 
+Klienten im Rahmen der anwaltlichen Instruktion lediglich zeigte, kann er sich zwar auf 
+einen Rechtfertigungsgrund im Sinne von Art. 14 StGB berufen, denn für eine wirksame 
+Verteidigung war es wohl unabdingbar, dass er den Inhalt der Aufnahmen mit diesem 
+besprechen konnte (Rechtfertigungsgrund der Berufspflicht gemäss aArt. 32 StGB). 
+© Kanton St.Gallen 2026
+Seite 4/6
+
+
+Publikationsplattform
+St.Galler Gerichte
+Gleichermassen kann sich auch die Staatsanwaltschaft auf einen Rechtfertigungsgrund 
+(Amtspflicht gemäss aArt. 32 StGB) berufen, wenn sie dem Beschuldigten in der 
+Einvernahme die Bilder vorlegte, denn sie musste ihm Vorhalt zu den vorgeworfenen 
+strafbaren Handlungen machen. Dass Rechtsanwalt A. seinem Klienten die Fotos nicht 
+nur zeigte, sondern ihm sogar Kopien davon überliess, ist nun allerdings durch keinen 
+Rechtfertigungsgrund gedeckt. Dies war für die Verteidigung seines Klienten nicht 
+notwendig, ebenso wenig für die Verfahrensvorbereitung durch diesen selbst. Auch der 
+Klient hatte deshalb keinen Rechtfertigungsgrund für seinen Besitz.
+Die Weitergabe der Fotos an den Klienten war folglich rechtswidrig, auch wenn sie von 
+der Staatsanwaltschaft bei Gewährung der Akteneinsicht nicht explizit verboten 
+worden war. Rechtsanwalt A. erfüllte damit in objektiver Hinsicht einen Straftatbestand, 
+ohne dass er dafür einen Rechtfertigungsgrund hatte. Die Staatsanwaltschaft weist in 
+ihrer Anzeige zu Recht darauf hin, dass es nicht angeht, wenn ein Verteidiger seinem 
+Klienten im Rahmen des freien Verteidigerverkehrs (Art. 235 Abs. 4 StPO) bzw. bei 
+Zustellungen unter dem Titel "Anwaltspost" kinderpornografische Abbildungen einfach 
+überlässt, besteht doch die Gefahr einer sachfremden Verwendung oder auch einer 
+Weitergabe an Dritte.
+5. Aus der Stellungnahme von Rechtsanwalt A. geht nicht hervor, ob er sich, als er 
+seinem Klienten die Akten zustellte, bewusst war, dass sich darin auch die erwähnten 
+Fotos befanden. Der Umstand, dass die Fotos in einer von ihm abgeschickten und mit 
+"Anwaltspost" bezeichneten, rund acht Zentimeter dicken Schachtel gefunden wurden, 
+lässt darauf schliessen, dass er seinem Klienten mit dieser Postsendung eine grössere 
+Zahl von Verfahrensakten hatte zukommen lassen. Möglicherweise machte er sich gar 
+keine Gedanken über den genauen Inhalt der Sendung und unterliess es, sein 
+Sekretariat anzuweisen, bestimmte Aktenstück vom Kopieren und Versand an den 
+Klienten auszuschliessen. Zugunsten von Rechtsanwalt A. ist daher anzunehmen, dass 
+er lediglich fahrlässig handelte.
+Disziplinarisch zu ahnden sind indessen nicht nur vorsätzlich, sondern auch fahrlässig 
+begangene Berufsregelverletzungen, jedenfalls dann, wenn ein Anwalt die 
+durchschnittliche Sorgfalt hat vermissen lassen, die von jedem Anwalt in guten Treuen 
+verlangt werden darf und muss (BGE 110 Ia 95; BGer 2C_379/2009 E. 3.2; Fellmann, 
+a.a.O., Art. 12 N 2; Poledna, in: Fellmann/Zindel, Kommentar zum Anwaltsgesetz, 2. A., 
+© Kanton St.Gallen 2026
+Seite 5/6
+
+
+Publikationsplattform
+St.Galler Gerichte
+Zürich 2011, Art. 17 N 18). Eine solche Sorgfaltspflichtverletzung muss sich 
+Rechtsanwalt A. vorwerfen lassen. Angesichts der Vertrauensstellung, die ein 
+Verteidiger im Rahmen des unkontrollierten Verkehrs mit Untersuchungshäftlingen 
+geniesst (Art. 235 Abs. 4 StPO), müssen die Strafbehörden sich darauf verlassen 
+können, dass nicht verbotene kinderpornografische Abbildungen in die Haftanstalten 
+gelangen. Von Rechtsanwalt A. hätte deshalb erwartet werden dürfen, dass er 
+angesichts des heiklen Aktenmaterials genau prüft, was er davon an seinen Klienten 
+weiterleitet. Indem er dies unterliess, hat er die Berufsregel der sorgfältigen und 
+gewissenhaften Berufsausübung gemäss Art. 12 lit. a BGFA verletzt.
+6. Die Verletzung von Berufsregeln ist nach Art. 17 BGFA mit Verwarnung, Verweis, 
+Busse bis zu Fr. 20'000.– oder einem befristeten oder dauernden 
+Berufsausübungsverbot zu ahnden. Bei der Wahl der Sanktion ist dem 
+verfassungsmässigen Grundsatz der Verhältnismässigkeit (Art. 36 Abs. 3 BV) 
+Rechnung zu tragen. Welche Massnahme verhältnismässig ist, entscheidet sich nach 
+der Schwere des Verstosses, dem Mass des Verschuldens und dem anwaltlichen 
+Leumund (Poledna, a.a.O., Art. 17 N 23 ff.).
+Die vorliegend zu sanktionierende Berufsregelverletzung erscheint zwar in objektiver 
+Hinsicht schwer, nachdem offensichtlich kinderpornografische und damit verbotene 
+Fotos in eine Haftanstalt eingeschleust wurden. Ein solches Fehlverhalten ist auch dem 
+Ansehen des Berufsstandes der Anwälte abträglich. In subjektiver Hinsicht ist 
+allerdings zu berücksichtigen, dass Rechtsanwalt A. lediglich ein fahrlässiges Verhalten 
+vorgeworfen werden kann. Sein anwaltlicher Leumund ist ungetrübt.
+Es erscheint deshalb angemessen, die Sanktion für die von Rechtsanwalt A. 
+begangene Berufsregelverletzung auf eine Busse von Fr. 500.– zu beschränken.
+[7.-9. Sicherstellung/Kostenfolgen/Zustellung]
+Bemerkung: Diesen Entscheid hat das Verwaltungsgericht mit Entscheid vom 20. 
+Dezember 2016 aufgehoben (B 2015/304 neues Fenster).
+© Kanton St.Gallen 2026
+Seite 6/6
