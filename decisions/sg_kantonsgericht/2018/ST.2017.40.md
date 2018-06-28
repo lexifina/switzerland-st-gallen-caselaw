@@ -1,0 +1,78 @@
+---
+decision_id: "sg_publikationen_ST.2017.40"
+court: "SG Kantonsgericht"
+court_id: "sg_kantonsgericht"
+chamber: "Kantonsgericht"
+docket: "ST.2017.40"
+decided: "2018-06-28"
+language: "de"
+legal_area: "Strafkammer und Anklagekammer"
+source_url: "https://publikationen.sg.ch/rechtsprechung-gerichte-detail/2930/"
+pdf_url: "https://publikationen.sg.ch/rechtsprechung-gerichte?tx_diamjudicalsg_judicalpublicationpdf%5Bcontroller%5D=DownloadPdf&tx_diamjudicalsg_judicalpublicationpdf%5Bpublication%5D=2930&type=1563347022&cHash=4e5bf885153cb0955bc8b59a09f989bb"
+cites_decisions: ["6B_1016/2016"]
+cites_law: ["switzerland/bund/acts/220/art-394.md", "switzerland/bund/acts/311.0/art-179quinquies.md", "switzerland/bund/acts/311.0/art-179ter.md"]
+---
+
+# Entscheid Kantonsgericht, 28.06.2018
+
+## Regeste
+
+Art. 179ter und 179quinquies Abs. 1 lit. b StGB (SR 311.0). Straflose Ausnahmen vom Verbot unbefugter Aufzeichnungen nichtöffentlicher Gespräche. Auslegung der «ähnlichen Geschäftsvorfälle» (E. III.4.a). Die Fakturierung und Einforderung offener Zahlungen im bestehenden Vertragsverhältnis bilden Bestandteil der Vertragsabwicklung. Diese wie auch die darauf zurückzuführenden Strafverfahren und Streitigkeiten zwischen dem einen Gesprächsteilnehmer und dem Angehörigen des anderen Gesprächsteilnehmers sind weder als Bestellung, Auftrag oder Reservation noch als ähnlicher Geschäftsvorfall zu qualifizieren (E. III.4.b) (Kantonsgericht, Strafkammer, 28. Juni 2018, ST.2017.40).
+
+## Text
+
+Sachverhalt:
+X. wurde vorgeworfen, am 9. Oktober 2015, von Y. wegen Rechnungen, die das Unternehmen A. an das Unternehmen B. gestellt hatte, angerufen worden zu sein. Da das Unternehmen B. die Rechnungen noch nicht bezahlt hatte, wollte Y. wissen, ob X. mit den Rechnungen nicht einverstanden sei. In der restlichen Zeit ging es im Telefongespräch um persönliche Streitigkeiten zwischen X. als Geschäftsführer des Unternehmens B. und dem ehemaligen Gesellschafter des Unternehmens A. Dieses Gespräch nahm X. ohne die Einwilligung von Y. auf und sendete die Aufnahme anschliessend per E-Mail an Y. Das Kantonsgericht bestätigte das Urteil der Vorinstanz bzw. den Schuldspruch wegen unbefugten Aufnehmens von Gesprächen und die bedingte Geldstrafe von 10 Tagessätzen zu je Fr. 150.00.
+Aus den Erwägungen:
+III.
+4. a) Art. 179
+quinquies
+StGB regelt die straflosen Ausnahmen vom Verbot unbefugter Auf­zeichnungen nichtöffentlicher Gespräche (Trechsel/Lieber, in: Trechsel/Pieth [Hrsg.], Schweizerisches Strafgesetzbuch, Praxiskommentar, 2. Aufl., Art. 179
+quinquies
+N 1); dabei entfällt nicht die Rechtswidrigkeit, sondern die Tatbestandsmässigkeit (BSK STGB II-Von Ins/‌Wy­der, Art. 179
+quinquies
+N 1). So macht sich unter anderem nicht strafbar, wer als Gesprächsteilneh­mer ein Fernmeldegespräch im Geschäftsverkehr aufnimmt, welche Bestellungen, Aufträge, Reservationen und ähnliche Geschäftsvorfälle zum Inhalt haben (Art. 179
+quinquies
+Abs. 1 lit. b StGB). Im vorliegenden Zusammenhang sind insbesondere die sogenannten „ähnlichen Geschäftsvorfälle“ umstritten. Die nachfolgenden Erwägungen legen deshalb deren Bedeutungsinhalt dar.
+aa) Vorab bedarf es zweierlei Bemerkungen. Es ist sich vor Augen zu halten, dass die heute geltende Fassung von Art. 179
+quinquies
+Abs. 1 lit. b StGB bedeutend enger gefasst ist als der ursprüngliche Vorschlag bzw. als diejenige in der am 19. Dezember 1997 eingereichten parlamentarischen Initiative Frick (Nr. 97.462). Die Bestimmung mit dem aktuellen Wortlaut wurde erstmals am 5. Juni 2003 von der ständerätlichen Kommission für Rechtsfragen an den Ständerat herangetragen (AB SR 2003 494). Die seither unveränderte und im darauffolgenden Herbst angenommene Fassung bezieht sich im Gegensatz zum früheren Entwurf lediglich auf einzelne, bestimmte Gesprächssituationen im Geschäftsverkehr (Brunner, Zur Aufzeichnung von Telefongesprächen aus datenschutzrechtlicher Sicht, Zeitschrift für Kommunikationsrecht, Medialex, 2004, S. 128 ff., S. 132 f.; BSK STGB II-Von Ins/Wyder, Art. 179
+quinquies
+N 16 mit Hinweis). Zudem sind Ausnahmeklauseln wie Art. 179
+quinquies
+StGB stets restriktiv auszulegen (so auch der EDSB in seiner Analyse, act. A 16/2 S. 2; zum Grundsatz der engen Auslegung vgl. BGer 6B_1016/2016 E. 3 mit Hinweisen). Dies gilt es nachfolgend zu berücksichtigen.
+bb) Wie bereits dem Wortlaut von Art. 179
+quinquies
+Abs. 1 lit. b StGB zu entnehmen ist, fallen Gespräche des Privatverkehrs nicht unter die Bestimmung (vgl. Grimm/‌Vlcek, in: AJP, Liberalisierung für das Aufnehmen von Telefongesprächen im Geschäfts- und Bankenverkehr. Revision Art. 179quinquies StGB, 2004, S. 534 ff., S. 537), sondern nur solche des Geschäftsverkehrs. Darunter sind Verhandlungen, Abschlüsse oder Abwicklungen von beliebigen privatrechtlichen Vertragsgeschäften zu verstehen, wobei das Gespräch für die Beteiligten erkennbar einen primären Bezug zum Geschäftsverkehr aufweisen muss. Diese Umschreibung des Geschäftsverkehrs im Bericht der Kommission für Rechtsfragen des Ständerats vom 2. Mai 2001 (BBl 2001 2639) bezog sich zwar noch auf die ursprüngliche weite Fassung. Allerdings lässt sich weder den übrigen Materialien noch dem Wortlaut der heutigen Bestimmung entnehmen, dass dem in Art. 179
+quinquies
+Abs. 1 lit. b StGB ebenfalls erwähnten Geschäftsverkehr eine andere Bedeutung beizumessen wäre. Selbst der Verteidiger stützt sich darauf ab. Demnach erweist sich das Verhandeln, Abschliessen oder Abwickeln privatrechtlicher Vertragsgeschäfte als grundlegendes Charakteristikum für den “Geschäftsverkehr“ gemäss Art. 179
+quinquies
+Abs. 1 lit. b StGB. Vermischt sich ein solches Geschäftsgespräch mit privaten Äusserungen, so ist dem pragmatischen Ansatz des Ständerats bzw. von Grimm/‌Vlcek zu folgen, dass die ebenfalls aufgenommenen Privatäusserungen straflos bleiben, sofern sie beiläufig erfolgten und soweit der wesentliche und massgebende Inhalt des Gesprächs einen erlaub­ten Geschäftsfall betreffen (BBl 2001 2639; Grimm/‌Vlcek, a.a.O., S. 539).
+cc) Als erlaubte Geschäftsfälle nennt das Gesetz Bestellungen, Aufträge und Reservationen sowie ähnliche Geschäftsvorfälle und grenzt damit den straffrei aufnehmbaren Geschäfts­verkehr deutlich ein. Bundesrätin Metzler präzisierte am 24. September 2003 im Nationalrat, dass darunter „Massengeschäfte, bei denen eine Aufzeichnung problemlos ist“, zu verstehen seien (AB NR 2003 1465). Daraus und aus den die Auffassung Metzler begründenden Voten Frick und Garbani (AB SR 2002 709; AB NR 2003 1465) schloss Brunner, dass der Gesetzgeber ausschliesslich diejenigen Gespräche unter Art. 179
+quinquies
+Abs. 1 lit. b StGB fassen wollte, die vom Kontext her eindeutig und ausschliesslich einen bestimmten, massenhaft vorkommenden Geschäftsvorfall betreffen, für dessen Abwicklung ein gewisser Zeitdruck vorhanden und ein bestimmtes Interesse des Aufnehmenden an der Beweissicherung gegeben sei. Die massgeblichen Kriterien sind demnach laut Brunner Beweisinteresse, Massengeschäft und Dringlichkeit (Brunner, a.a.O., S. 132). Auch der EDSB bezieht sich in seiner Analyse zumindest implizit auf diese Kriterien (act. A 16/2 S. 3). Grimm/‌Vlcek nehmen indes Abstand vom Kriterium des Massengeschäfts mit der Begründung, dass dieses im Wortlaut von Art. 179
+quinquies
+Abs. 1 lit. b StGB nicht enthalten sei und dass gestützt auf die Materialien nicht nur Massengeschäfte, sondern auch allgemeine Handelsgeschäfte wie etwa ein Reparaturauftrag an einen Handwerker unter die Ausnahmebestimmung falle (Grimm/‌Vlcek, a.a.O., S. 539 mit Hinweis auf das Votum Aeschbacher, AB NR 2003 1465). Allerdings konstatieren Grimm/‌Vlcek, dass nur unkomplizierte Geschäftsvorfälle von Art. 179
+quinquies
+Abs. 1 lit. b StGB erfasst werden, nicht aber Gesprächsaufnahmen, die komplexe Verhältnisse betreffen und längere Verhandlungen zum Inhalt haben (Grimm/‌Vlcek, a.a.O., S. 539 f.).
+dd) Bei den “Bestellungen“ und “Reservationen“ dürfte der Gesetzgeber den relativ klar abgrenzbaren Vorgang eines Anrufs zum Erwerb einer Sache oder Dienstleistung (z.B. telefonische Touristik-, Flug- oder Hotelreservationen, Versandkäufe usw.) vor Augen gehabt haben bzw. bei den begrifflich schwieriger fassbaren “Aufträgen“ etwa einen Börsenauftrag an einen Devisen- und Effektenhändler. Gemäss Grimm/‌Vlcek beschränken sich die “Aufträge“ aber nicht ohne Weiteres auf den zivilrechtlichen Auftragsbegriff nach Art. 394 ff. OR (Grimm/‌Vlcek, a.a.O., S. 539 mit Hinweisen auf diverse parlamentarische Voten). Die so verstandenen Begriffe fügen sich damit problemlos in den oben definierten “Geschäftsverkehr“ ein. Hingegen ist der Parlamentsdebatte nicht klar zu entnehmen, welche Vorgänge als “ähnliche Geschäftsvorfälle“ zu gelten haben. Grimm/‌Vlcek stellen die Faustregel auf, dass für den Vertragsschluss bzw. -inhalt Beweisirrelevantes nicht von den “ähnlichen Geschäftsvorfällen“ erfasst werde. Unter die “ähnlichen Geschäftsvorfälle“ dürften allgemein unkomplizierte Verkaufs- und Vermietgeschäfte oder die Anmeldung und Abwicklung zu bzw. von Wettbewerben fallen (Grimm/‌Vlcek, a.a.O., S. 540 mit Hinweis; BSK STGB II-Von Ins/Wyder, Art. 179
+ter
+N 23). Auch National- und Ständerat versuchten zu verdeutlichen: So sei die einwilligungsfreie Aufzeichnung eines Gesprächs zulässig, wenn es die Reservation eines Flugbillets oder Hotelzimmers betreffe, nicht aber, wenn es sich um eine diesbezügliche Reklamation handle (Brunner, a.a.O., S. 133 mit Hinweis auf die Voten Studer, AB SR 2003 494, und Garbani, AB NR 2003 1464 f.). Zusammenfassend halten schliesslich Ins/Wyder fest, dass Aufnahmen ohne Einwilligungen zulässig sind, wenn es um Auftragsaufnahmen beim Verkauf von Produkten oder Dienstleistungen, Rückbestätigungen von schriftlichen oder online erteilten Aufträgen sowie Reservationen, Buchungen oder Wettbewerben geht. Demgegenüber fallen Telefongespräche betreffend Kundenberatung, Beschwerdemanagement, Auskunftserteilungen und Weitervermittlungen, Telefonmarketing, Kundenbetreuung und -rückgewin­nung, umfassende Vertragsverhandlungen sowie telefonische Befragungen nicht in den Anwendungsbereich von Art. 179
+quinquies
+Abs. 1 lit. b StGB. In diesen Fällen ist es vielmehr zumutbar und verhältnismässig, dass derjenige, der das Gespräch aufnehmen will, den anderen vorgängig darüber informiert (BSK STGB II-Von Ins/Wyder, Art. 179
+ter
+N 24 f.; vgl. Brunner, a.a.O., S. 136).
+b/aa) Bei dem von X aufgenommenen Gespräch geht es um das rund elf Minuten dauernde Telefonat zwischen ihm und Y vom 9. Oktober 2015. In den ersten viereinhalb Minuten wurde die seit Juni 2015 offene Schlussrechnung des Unternehmens A gegenüber dem Unternehmen B (vertreten durch X) besprochen. Die Rechnung stand im Zusammenhang mit einem Umbau in C. Y wollte wissen, ob X mit der Rechnung nicht einverstanden sei, was er umgehend verneinte. Daraufhin erläuterte er die finanzielle Schieflage des Unternehmens B und seine Bemühungen um eine gütliche Einigung mit den Gläubigern zwecks Verhinderung des drohenden Konkurses. Der Y stellte er in Aussicht, dem Unternehmen A in ungefähr zwei Wochen einen Zahlungsvorschlag (Dividende) zu unterbreiten. Y nahm dies zur Kenntnis und kündigte die Weiterleitung dieser Informationen an die Vorgesetzten an. Der zweite, etwa sechseinhalb Minuten dauernde Teil des Gesprächs beinhaltet sodann primär die von Z, dem Vater von Y, gegenüber X ausgesprochenen Drohungen und Beschimpfungen und das entsprechende Strafverfahren bei der Kantonspolizei D. Dieser dazumal über ein Jahr zurückliegende Vorfall gründete ebenfalls in offenen Forderungen des Unternehmens A, ehemals E, gegenüber X. Diese Forderungen weisen allerdings keinen Zusammenhang zur offenen Schluss­rechnung vom Juni 2015 auf und wurden zudem von X kurze Zeit nach dem damaligen Vorfall bezahlt.
+Wie die Vorinstanz zutreffend erwog, ist dem aufgenommenen Gespräch, das auf der Geschäftsbeziehung zwischen den Unternehmen B und A basiert, grundsätzlich geschäftlicher Charakter zuzusprechen. Die Fakturierung und Einforderung offener Zahlungen im bestehenden Vertragsverhältnis sind Bestandteil der Vertragsabwicklung und fallen demnach unter den sogenannten “Geschäftsverkehr“. Auch die Drohungen und Beschimpfungen zwischen X und Z basieren im Kern auf der Geschäftsbeziehung der beiden. Wie oben ausgeführt (vorst. E. III.4.a) genügt das Vorliegen eines allgemein geschäftlichen Charakters allerdings nicht zur Anwendung der Ausnahmeklausel von Art. 179
+quinquies
+Abs. 1 lit. b StGB. Letztere kommt nur bei Bestellungen, Aufträgen, Reservationen oder ähnlichen Geschäftsvorfällen zum Tragen. Eine entsprechende Gesprächsthematik lag dem aufgenommenen Telefonat vom 9. Oktober 2015 allerdings nicht zu Grunde. Wie erwähnt ging es im ersten Gesprächsteil um offene Rechnungen. Das sogenannte “Inkasso“ ist dem Verhandeln, Eingehen oder Bestätigen einer privatrechtlichen rechtsgeschäftlichen Beziehung nachgelagert und greift erst in dem Zeitpunkt, wenn eine Partei ihre vertragliche Leistungspflicht erfüllt hat und das dafür vereinbarte Entgelt als Gegenleistung der anderen Partei ausbleibt. Ausserdem war bei der im Zusammenhang mit der offenen Schlussrechnung erfolgten Anfrage und Abklärung bzw. Verhandlung über die Zahlungsvereinbarungen und -modalitäten weder ein vom Gesetzgeber geschütztes Beweisinteresse gegeben, das auf den Vertragsabschluss oder -inhalt abzielte, noch lagen unkomplizierte Verhältnisse vor. Im Gegenteil: Wie dem aufgenommenen Gespräch zu entnehmen ist, waren sich sowohl Y als auch X darüber im Unklaren, welche konkreten Folgen für die offene Forderung aus der finanziellen Schieflage des Unternehmens B und der damit zusammenhängenden Bemühungen von X resultieren würden bzw. ob eine Lösung erzielt werden könne und falls ja, welche. Letztlich vertagten sie ihr Gespräch; Y kündigte ein weiteres Telefonat nach erfolgter Rücksprache mit ihren Vorgesetzten an und X stellte einen konkreten Zahlungsvorschlag nach etwa zwei Wochen in Aussicht, nachdem er sämtliche Unterlagen und Zahlen gesichtet habe. Ein Geschäftsvorfall, der einer Bestellung, einem Auftrag oder einer Reservation i.S.v. Art. 179
+quinquies
+Abs. 1 lit. b StGB ähnlich ist, lag damit eindeutig nicht vor.
+Im zweiten Teil des Gesprächs ging es – wie erwähnt – sodann primär um das Strafverfahren und die Streitigkeiten zwischen X und Z aufgrund einer offenen und mittlerweile von X beglichenen Zahlung, die aber – abgesehen von denselben (Nachfolge-)Unternehmen als Vertragsparteien – keinen Konnex zur Schlussrechnung vom Juni 2015 aufwies. Damit ist zwar auch dem zweiten Gesprächsteil ein im Ursprung geschäftlicher Charakter beizumessen. Allerdings vermischte sich das Gespräch stark mit privaten Elementen. Die privaten Äusserungen erfolgten auch nicht bei­läufig, sondern verdrängten den ausschliesslich geschäftlichen Anteil massgeblich und präg­ten den weiteren Gesprächsverlauf. Ausserdem ist selbst der noch verbleibende geschäftliche Anteil (offene Rechnung) mit Verweis auf das bisher Ausführte nicht als Geschäfts­vorfall zu qualifizieren, der einer Bestellung, einem Auftrag oder einer Reservation i.S.v. Art. 179
+quinquies
+Abs. 1 lit. b StGB ähnlich wäre. Im Übrigen wäre es – wie der Vorin­stanz beizupflichten ist – in Anbetracht der Länge der Gesprächs­dauer (11 Minuten) verhältnismässig und für X auch zumutbar gewesen, Y auf die Gesprächsaufnahme hinzuweisen. Selbst der Verteidiger geht da­von aus, dass X die Y hätte aufklären müssen.
+bb) Somit fällt das aufgenommene Telefonat vom 9. Oktober 2015 nicht in den Anwendungsbereich von Art. 179
+quinquies
+Abs. 1 lit. b StGB. Indem X das Gespräch ohne Einwilligung der Y oder Hinweis auf die Aufzeichnung aufnahm, hat er den objektiven Tatbestand von Art. 179
+ter
+Abs. 1 StGB erfüllt.
