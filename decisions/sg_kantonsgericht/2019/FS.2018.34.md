@@ -1,0 +1,34 @@
+---
+decision_id: "sg_publikationen_FS.2018.34"
+court: "SG Kantonsgericht"
+court_id: "sg_kantonsgericht"
+chamber: "Kantonsgericht"
+docket: "FS.2018.34"
+decided: "2019-11-06"
+language: "de"
+legal_area: "Zivilkammern (inkl. Einzelrichter)"
+source_url: "https://publikationen.sg.ch/rechtsprechung-gerichte-detail/5909/"
+pdf_url: "https://publikationen.sg.ch/rechtsprechung-gerichte?tx_diamjudicalsg_judicalpublicationpdf%5Bcontroller%5D=DownloadPdf&tx_diamjudicalsg_judicalpublicationpdf%5Bpublication%5D=5909&type=1563347022&cHash=0887bb46754de231628711b6340627b6"
+cites_decisions: ["BGE 137 III 102", "BGE 142 II 49", "BGE 144 III 481", "FO.2017.11"]
+cites_law: ["switzerland/bund/acts/210/art-179.md", "switzerland/bund/acts/210/art-276.md", "switzerland/bund/acts/272/art-053.md"]
+---
+
+# Entscheid Kantonsgericht, 06.11.2019
+
+## Regeste
+
+Art. 53 Abs. 1 ZPO und Art. 276 Abs. 2 ZGB: Rechtliches Gehör: In der Begründung ei-nes Entscheides muss nicht jedes einzelne Vorbringen ausdrücklich widerlegt werden. Betreuungsunterhalt: Bei der Bemessung des Betreuungsunterhalts ist von den tat-sächlichen Verhältnissen auszugehen. Der Betreuungsunterhalt für ein aussereheliches Kind geht dem Ehegattenunterhalt vor. (Kantonsgericht, Einzelrichter im Familienrecht, 6. November 2019, FS.2018.34).
+
+## Text
+
+Aus dem Sachverhalt:
+Aus einer Ehe gingen 2009 und 2014 zwei Töchter hervor. Mit Eheschutzentscheid vom 11. Oktober 2017 wurde der Ehemann zu Unterhaltsbeiträgen für die Kinder und die Ehefrau verpflichtet. Nachdem er am 25. August 2018 Vater einer ausserehelichen Tochter wurde, verlangte er eine Abänderung des Eheschutzentscheids.
+Erwägungen:
+3. a) Die Ehefrau macht zunächst eine Verletzung des Anspruchs auf rechtliches Gehör geltend. Zur Begründung führt sie aus, sie habe die Edition der vollständigen Kontoauszüge sämtlicher auf den Ehemann "lautenden oder ihm wirtschaftlich zuzuordnenden Konten für den Zeitraum 01.01.2018 bis 30.09.2018" beantragt. Im angefochtenen Entscheid sei die Vorinstanz auf diesen Editionsantrag mit keinem Wort eingegangen, obschon sich dies zur Beurteilung der Einkommens- aber insbesondere auch zur Beurteilung der Bedarfssituation des Ehemanns aufgedrängt hätte. Indem die Vorinstanz diesem Beweisantrag nicht nachgegangen sei und sie sich zudem im angefochtenen Entscheid nicht damit auseinandergesetzt habe, habe sie ihre Begründungspflichten und damit das rechtliche Gehör der Ehefrau verletzt.
+Aus dem Anspruch auf rechtliches Gehör nach Art. 53 Abs. 1 ZPO folgt u.a. die grundsätzliche Pflicht der Gerichte, ihren Entscheid zu begründen. Die Begründung muss so abgefasst sein, dass die Betroffenen den Entscheid gegebenenfalls sachgerecht anfechten können. Die Begründung muss kurz die wesentlichen Überlegungen nennen, von denen sich das Gericht hat leiten lassen und auf die sich sein Entscheid stützt. Nicht erforderlich ist hingegen, dass sich der Entscheid mit allen Parteistandpunkten einlässlich auseinandersetzt und jedes einzelne Vorbringen ausdrücklich widerlegt (BGE 142 II 49 E. 9.2; 133 III 439 E. 3.3).
+Es trifft zwar zu, dass die Vorinstanz nicht explizit auf den Antrag der Ehefrau betreffend Edition der vollständigen Kontoauszüge des Ehemanns eingegangen ist. Dies war jedoch auch nicht zwingend erforderlich. In dem vom Ehemann veranlassten Verfahren betreffend Abänderung von Eheschutzmassnahmen ging es nach Abschluss der Teilvereinbarung vom 5. November 2018 lediglich noch um die Abänderung der Unterhaltsbeiträge. Diesbezüglich standen das Einkommen und nicht das Vermögen der Eheleute im Zentrum. Zudem waren die Vermögensverhältnisse des Ehemanns bereits aus seinem Gesuch um unentgeltliche Rechtspflege vom 7. September 2018 bekannt. Die Vorinstanz durfte deshalb zu Recht stillschweigend auf die Edition der vollständigen Kontoauszüge des Ehemanns verzichten. Den Anspruch der Ehefrau auf rechtliches Gehör hat sie damit nicht verletzt.
+b/c/d) […]
+e)  Die Vorinstanz billigte der Ehefrau einen Betreuungsunterhalt von Fr. 30.00 zu, dies bei einem monatlichen Einkommen von Fr. 3'030.00 und einem Bedarf von Fr. 3'060.00. Die Ehefrau wendet dagegen ein, sie arbeite derzeit mit einem Pensum von 55 % und damit überobligatorisch. Nach dem vom Bundesgericht favorisierten Schulstufenmodell müsste sie erst ab dem Eintritt der jüngeren Tochter L. in den Kindergarten eine 50 %-Erwerbstätigkeit aufnehmen. Dies sei im August 2019 der Fall. Es erscheine schlicht unfair und sei mit dem Gerechtigkeitsgedanken nicht zu vereinbaren, wenn sie wegen ihrer Erwerbstätigkeit so gut wie gar keinen Betreuungsunterhalt bekomme.
+Gemäss Praxis der II. Zivilkammer des Kantonsgerichts wird bei der Bemessung des Betreuungsunterhalts von den tatsächlichen Verhältnissen ausgegangen (Entscheid vom 10. Dezember 2018 im Verfahren FO.2017.11-K2, S. 12). Diese Praxis beruht auf der Rechtsprechung zur alten 10/16-Regel, bei der das Bundesgericht stets von den tatsächlichen Verhältnissen ausging, auch wenn der betreuende Elternteil in höherem Umfang als erwartet erwerbstätig war (BGE 137 III 102 E. 4.2.2). Demnach hat die Vorinstanz für die Töchter S. und L. zu Recht nur einen Betreuungsunterhalt von Fr. 30.00 festgelegt.
+f) Die Vorinstanz berücksichtigte für die neue Partnerin des Ehemanns und Mutter seiner dritten Tochter T., geb. 25. August 2018, einen Betreuungsunterhalt von Fr. 1'600.00. Die Ehefrau bringt dagegen vor, damit verletze die Vorinstanz Art. 179 ZGB. Nach den vom Bundesgericht zum nachehelichen Unterhalt bei erneuter Verheiratung aufgestellten Grundsätzen dürfe sich nämlich die Rollenverteilung bei einer neuen Partnerschaft wegen der Geburt eines neuen Kindes nicht zum Nachteil des unterhaltsberechtigten Ehegatten aus der ersten Ehe auswirken. Das Bundesgericht habe festgehalten, dass sich die zweite Ehefrau die Unterhaltspflicht des Ehemanns gegenüber der ersten Ehefrau als faktische Hypothek entgegenhalten lassen müsse. Der mit der Gesetzesrevision neu eingeführte Betreuungsunterhalt stelle wirtschaftlich betrachtet nichts Anderes dar als "Ehegattenunterhalt" an die zweite Kindsmutter. In Deutschland werde denn auch der Betreuungsunterhalt korrekterweise nicht an das Kind aus der zweiten Beziehung des Unterhaltspflichtigen geleistet, sondern an die andere Kindsmutter.
+Mit der Revision von Art. 276 ZGB hat der Gesetzgeber den Betreuungsunterhalt als Teil des Kinderunterhaltes geregelt. Ziel war es, die nicht verheirateten Mütter den verheirateten Müttern gleichzustellen. Gemäss ständiger Praxis geht der Kinderunterhalt, bestehend aus dem Bar- und dem Betreuungsunterhalt, dem Ehegattenunterhalt vor (BGE 144 III 481 E. 4.3). Mit der Einführung des Betreuungsunterhalts als Teil des Kinderunterhalts hat der Gesetzgeber in Kauf genommen, dass sich die Ansprüche der Ehefrau nach der Geburt eines ausserehelichen Kindes des Ehemanns reduzieren.
