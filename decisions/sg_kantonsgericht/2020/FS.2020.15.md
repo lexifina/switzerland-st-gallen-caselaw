@@ -1,0 +1,34 @@
+---
+decision_id: "sg_publikationen_FS.2020.15"
+court: "SG Kantonsgericht"
+court_id: "sg_kantonsgericht"
+chamber: "Kantonsgericht"
+docket: "FS.2020.15"
+decided: "2020-10-29"
+language: "de"
+legal_area: "Zivilkammern (inkl. Einzelrichter)"
+source_url: "https://publikationen.sg.ch/rechtsprechung-gerichte-detail/9816/"
+pdf_url: "https://publikationen.sg.ch/rechtsprechung-gerichte?tx_diamjudicalsg_judicalpublicationpdf%5Bcontroller%5D=DownloadPdf&tx_diamjudicalsg_judicalpublicationpdf%5Bpublication%5D=9816&type=1563347022&cHash=195aed8370afe39dcd417bd367284fcc"
+cites_decisions: ["BGE 140 III 450"]
+cites_law: ["switzerland/bund/acts/272/art-233.md", "switzerland/bund/acts/272/art-236.md", "switzerland/bund/acts/272/art-272.md", "switzerland/bund/acts/272/art-273.md", "switzerland/bund/acts/272/art-318.md"]
+---
+
+# Entscheid Kantonsgericht, 29.10.2020
+
+## Regeste
+
+Art. 236, 272 f. und 318 Abs. 1 lit. c ZPO: Bei summarischen Eheschutzsachen ist eine mündliche Verhandlung grundsätzlich unverzichtbar und kann höchstens bei Vorliegen eines sehr klaren Sachverhalts entfallen. Der fehlende Antrag auf Durchführung einer mündlichen Verhandlung rechtfertigt den Verzicht auf eine solche ebenso wenig wie der Umstand, dass das Gericht diese als unnötig erachtet, oder das "unvorteilhafte" Verhalten einer Partei. Rückweisung zur vollständigen Durchführung des Verfahrens an die Vorinstanz (Kantonsgericht, Einzelrichter im Familienrecht, 29. Oktober 2020, FS.2020.15).
+
+## Text
+
+Zusammenfassung des Sachverhalts:
+A. verlangte mit Gesuch vom 31. August 2018 die Aufhebung der Unterhaltspflicht gemäss Eheschutzentscheid vom 12. März 2018 der Eheschutzrichterin des Kantonsgerichtes X. Nach Einholen einer Gesuchsantwort wies der Familienrichter des Kreisgerichts Y. das Gesuch ab, ohne eine mündliche Verhandlung durchzuführen.
+Aus den Erwägungen:
+5.    Der vorinstanzliche Familienrichter hat auf die Anordnung und Durchführung einer mündlichen Verhandlung verzichtet. Er begründet dies damit, dass ein Schriftenwechsel mit begründeten Anträgen vorliege und die Durchführung der Verhandlung vom Ehemann nicht ausdrücklich verlangt worden sei. Schliesslich habe der Ehemann keine sachdienlichen Hinweise bezüglich der Abänderungsgründe eingereicht [...].
+In seiner Berufungsschrift rügt A., die Vorinstanz habe es versäumt, ihm einen Rechtsbeistand zur Seite zu stellen oder ihn persönlich zu einem Gespräch einzuladen, um der gerichtlichen Fragepflicht nachzukommen […]. Noch am 10. Februar 2020 habe er einen "Hilferuf" ans Gericht gesandt und ein Arztzeugnis von Prof. Dr. C. vom 18. Dezember 2007 eingereicht, nach dem bei ihm eine ….-Persönlichkeitsstörung vorliege. […]
+Gemäss Art. 236 ZPO darf das Gericht einen verfahrensabschliessenden Endentscheid fällen, wenn das Verfahren spruchreif ist. Dies bedeutet, dass das Gericht erst dann einen Endentscheid erlassen kann, wenn es über sämtliche Entscheidgrundlagen verfügt, um über die Begründetheit bzw. Unbegründetheit des geltend gemachten Anspruchs zu befinden. Voraussetzung für einen Endentscheid ist weiter, dass das vom Gesetz vorgeschriebene Verfahren ordnungsgemäss durchgeführt worden ist (vgl. insbesondere BGE 140 III 450 E. 3.2). Dazu gehört die Durchführung einer Verhandlung, wenn sie vorgeschrieben ist.
+Gemäss Art. 273 Abs. 1 ZPO führt das Gericht bei summarischen Ehesachen eine mündliche Verhandlung durch. Es kann nur dann darauf verzichten, wenn der Sachverhalt aufgrund der Eingaben der Parteien klar oder unbestritten ist (Art. 273 Abs. 2 ZPO). Zu beachten ist weiter Art. 272 ZPO, der mit der (beschränkten) Untersuchungsmaxime dem Gericht eine ausgedehnte Fragepflicht auferlegt. Überdies soll das Gericht gemäss Art. 273 Abs. 3 ZPO versuchen, zwischen den Parteien eine Einigung herbeizuführen. Unter diesen Umständen ist in Eheschutzsachen die Durchführung einer mündlichen Verhandlung grundsätzlich unverzichtbar (vgl. z.B. Spycher, Berner Kommentar, Art. 273 ZPO N. 3; Bähler, Dike-Komm-ZPO, Art. 273 ZPO N. 1; Tappy, CR, 2. A., Art. 273 ZPO N. 17). Gerade in Familiensachen dient eine Verhandlung einer schnellen und unkomplizierten Abklärung des Problems; vgl. auch OGer ZH vom 11. Oktober 2017 i.S. LE170017 E. III.3.2). Das Gericht darf nicht vorschnell einen Einigungsversuch als aussichtslos betrachten. Die vorinstanzliche Begründung, es sei keine mündliche Verhandlung verlangt worden […], ist deshalb von vorne herein zu verwerfen.
+Das Gericht darf nicht von sich aus auf die Abhaltung einer Verhandlung verzichten, weil es eine solche für unnötig erachtet (BGE 140 III 450 E.3.2, mit Hinweis auf Pahud, Dike-Komm. ZPO, 3.A., Art. 233 ZPO N. 9; Killias, Berner Kommentar, Band 2, Art. 233 ZPO N. 7; Naegeli/Mayhall, Kurzkommentar ZPO, 2. Aufl., Art. 233 ZPO N. 7, Leuenberger, Sutter-Somm/Hasenböhler/Leuenberger ZPO Komm., Art. 233 ZPO N. 1a).
+Es ist weiter darauf hinzuweisen, dass in diesem Fall kein klarer Sachverhalt vorlag. Angesichts des Grundsatzes der zwingenden Durchführung einer mündlichen Verhandlung kann das Gericht auf eine Verhandlung höchstens in sehr klaren Fällen verzichten, wenn beispielsweise die Ehegatten schon vor sehr kurzer Zeit vor ihm erschienen sind und es aktuell einzig darum geht, die Verlängerung einer bereits reglementierten Ordnung zu veranlassen oder eine Parteivereinbarung zu genehmigen (vgl. Tappy, CR, 2. A., Art. 273 ZPO N. 19).
+Vorliegend auferlegte der Entscheid der Eheschutzrichterin des Kantonsgerichtes X. vom 12. März 2018 A. eine monatliche Unterhaltspflicht von Fr. 2'100.00. Weiter geht aus den vorinstanzlichen Akten hervor, dass A. am 22. Dezember 2019 das ordentliche Pensionsalter erreichte. Der Verfügung vom 15. August 2018 der Sozialversicherungsanstalt Z. […] ist zu entnehmen, dass sich A. für den Vorbezug der Rentenleistungen der AHV gemeldet hatte und eine monatliche Rente von Fr. 847.00 zugesprochen erhielt. Weitere Einnahmen aus der …. GmbH mussten als unklar und umstritten gelten. Bei dieser Sachlage darf die Voraussetzung des (sehr) klaren Sachverhaltes nicht bejaht und es darf auf eine mündliche Verhandlung keinesfalls verzichtet werden. Der Familienrichter ist wegen der (beschränkten) Untersuchungsmaxime verpflichtet, mit Fragen auf eine Klärung des Sachverhaltes hinzuwirken. Von dieser Pflicht entbindet auch ein "unvorteilhaftes" Verhalten einer Prozesspartei nicht, zumal gerade im vorliegenden Fall ein Arztzeugnis vorlag, aus dem die eingeschränkte Gesundheit des Gesuchstellers hervorging […].
+Der Mangel der fehlenden Durchführung einer Hauptverhandlung, der auch die grundrechtlichen Ansprüche (Anspruch auf mündliche Verhandlung) verletzt, kann im Berufungsverfahren nicht geheilt werden. Unter diesen Umständen ist der vorinstanzliche Entscheid aufzuheben und die Sache gestützt auf Art. 318 Abs. 1 lit. c ZPO zur vollständigen Durchführung des Verfahrens und zu neuem Entscheid zurückzuweisen.
