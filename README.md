@@ -1,5 +1,7 @@
 # Swiss case law: St. Gallen (cantonal courts and bodies)
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the case law of St. Gallen, Switzerland, which global-law reads at `switzerland/st-gallen/caselaw/`.
+
 Every published decision of these courts and bodies as a git history: one file per decision, one commit per decision,
 dated the day it was decided. 15,344 decisions from 1951-06-23 to 2026-11-06. Part of
 [lexifina/global-law](https://github.com/lexifina/global-law) at `switzerland/st-gallen/caselaw`.
